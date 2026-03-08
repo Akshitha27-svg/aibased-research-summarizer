@@ -1,0 +1,562 @@
+[
+    {
+        "source": "P01",
+        "relation": "WRITTEN_BY",
+        "target": "Robert Sparrow"
+    },
+    {
+        "source": "P01",
+        "relation": "WRITTEN_BY",
+        "target": "Joshua Hatherley"
+    },
+    {
+        "source": "P01",
+        "relation": "PUBLISHED_IN",
+        "target": "arXiv"
+    },
+    {
+        "source": "P01",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2025"
+    },
+    {
+        "source": "P01",
+        "relation": "HAS_KEYWORD",
+        "target": "AI ethics"
+    },
+    {
+        "source": "P01",
+        "relation": "HAS_KEYWORD",
+        "target": "bias"
+    },
+    {
+        "source": "P01",
+        "relation": "HAS_KEYWORD",
+        "target": "clinical decision support"
+    },
+    {
+        "source": "P01",
+        "relation": "HAS_KEYWORD",
+        "target": "transparency"
+    },
+    {
+        "source": "P02",
+        "relation": "WRITTEN_BY",
+        "target": "Zuoguang Wang"
+    },
+    {
+        "source": "P02",
+        "relation": "PUBLISHED_IN",
+        "target": "Cybersecurity (SpringerOpen)"
+    },
+    {
+        "source": "P02",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2021"
+    },
+    {
+        "source": "P02",
+        "relation": "HAS_KEYWORD",
+        "target": "Social engineering attack"
+    },
+    {
+        "source": "P02",
+        "relation": "HAS_KEYWORD",
+        "target": "Cyber security"
+    },
+    {
+        "source": "P02",
+        "relation": "HAS_KEYWORD",
+        "target": "Ontology"
+    },
+    {
+        "source": "P02",
+        "relation": "HAS_KEYWORD",
+        "target": "Knowledge graph"
+    },
+    {
+        "source": "P02",
+        "relation": "HAS_KEYWORD",
+        "target": "Attack scenarios"
+    },
+    {
+        "source": "P02",
+        "relation": "HAS_KEYWORD",
+        "target": "Threat analysis"
+    },
+    {
+        "source": "P03",
+        "relation": "WRITTEN_BY",
+        "target": "Hanyao Gao"
+    },
+    {
+        "source": "P03",
+        "relation": "PUBLISHED_IN",
+        "target": "Financial Innovation — Volume 10, Article 86"
+    },
+    {
+        "source": "P03",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2024"
+    },
+    {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Machine learning"
+    },
+    {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Business"
+    },
+    {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Finance"
+    },
+    {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Marketing"
+    },
+    {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Deep learning"
+    },
+    {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Financial forecasting"
+    },
+    {
+        "source": "P03",
+        "relation": "HAS_KEYWORD",
+        "target": "Application review"
+    },
+    {
+        "source": "P04",
+        "relation": "WRITTEN_BY",
+        "target": "A. Rahman et al."
+    },
+    {
+        "source": "P04",
+        "relation": "PUBLISHED_IN",
+        "target": "arXiv"
+    },
+    {
+        "source": "P04",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2024"
+    },
+    {
+        "source": "P04",
+        "relation": "HAS_KEYWORD",
+        "target": "Medical AI"
+    },
+    {
+        "source": "P04",
+        "relation": "HAS_KEYWORD",
+        "target": "Security"
+    },
+    {
+        "source": "P05",
+        "relation": "WRITTEN_BY",
+        "target": "Gautam Srivastava"
+    },
+    {
+        "source": "P05",
+        "relation": "PUBLISHED_IN",
+        "target": "arXiv"
+    },
+    {
+        "source": "P05",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2022"
+    },
+    {
+        "source": "P05",
+        "relation": "HAS_KEYWORD",
+        "target": "XAI"
+    },
+    {
+        "source": "P05",
+        "relation": "HAS_KEYWORD",
+        "target": "Security"
+    },
+    {
+        "source": "P05",
+        "relation": "HAS_KEYWORD",
+        "target": "Cyber security"
+    },
+    {
+        "source": "P06",
+        "relation": "WRITTEN_BY",
+        "target": "Rihab Najem"
+    },
+    {
+        "source": "P06",
+        "relation": "PUBLISHED_IN",
+        "target": "Springer OA"
+    },
+    {
+        "source": "P06",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2025"
+    },
+    {
+        "source": "P06",
+        "relation": "HAS_KEYWORD",
+        "target": "Artificial Intelligence · E-finance · Stock Market · Prediction · Forecasting · Emergent        technologies · Machine Learning"
+    },
+    {
+        "source": "P07",
+        "relation": "WRITTEN_BY",
+        "target": "Thanh Thi Nguyen"
+    },
+    {
+        "source": "P07",
+        "relation": "PUBLISHED_IN",
+        "target": "arXiv"
+    },
+    {
+        "source": "P07",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2020"
+    },
+    {
+        "source": "P07",
+        "relation": "HAS_KEYWORD",
+        "target": "AI"
+    },
+    {
+        "source": "P07",
+        "relation": "HAS_KEYWORD",
+        "target": "Healthcare"
+    },
+    {
+        "source": "P07",
+        "relation": "HAS_KEYWORD",
+        "target": "covid-19"
+    },
+    {
+        "source": "P07",
+        "relation": "HAS_KEYWORD",
+        "target": "pandemic"
+    },
+    {
+        "source": "P08",
+        "relation": "WRITTEN_BY",
+        "target": "Shailendra Mishra"
+    },
+    {
+        "source": "P08",
+        "relation": "PUBLISHED_IN",
+        "target": "Applied Sciences"
+    },
+    {
+        "source": "P08",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2023"
+    },
+    {
+        "source": "P08",
+        "relation": "HAS_KEYWORD",
+        "target": "artificial intelligence"
+    },
+    {
+        "source": "P08",
+        "relation": "HAS_KEYWORD",
+        "target": "enhanced encryption"
+    },
+    {
+        "source": "P08",
+        "relation": "HAS_KEYWORD",
+        "target": "financial sector"
+    },
+    {
+        "source": "P08",
+        "relation": "HAS_KEYWORD",
+        "target": "cyber security"
+    },
+    {
+        "source": "P09",
+        "relation": "WRITTEN_BY",
+        "target": "HARIKHA MANTHENA"
+    },
+    {
+        "source": "P09",
+        "relation": "WRITTEN_BY",
+        "target": "SHAGHAYEGH SHAJARIAN1"
+    },
+    {
+        "source": "P09",
+        "relation": "PUBLISHED_IN",
+        "target": "arXiv"
+    },
+    {
+        "source": "P09",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2024"
+    },
+    {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Explainable Malware Analysis"
+    },
+    {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Interpretable Malware Analysis"
+    },
+    {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Explainable AI"
+    },
+    {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "AI for Security"
+    },
+    {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "Malware Detection"
+    },
+    {
+        "source": "P09",
+        "relation": "HAS_KEYWORD",
+        "target": "and Malware Classification"
+    },
+    {
+        "source": "P10",
+        "relation": "WRITTEN_BY",
+        "target": "Abdullah Virk"
+    },
+    {
+        "source": "P10",
+        "relation": "WRITTEN_BY",
+        "target": "Safanah Alasmari"
+    },
+    {
+        "source": "P10",
+        "relation": "PUBLISHED_IN",
+        "target": "Cureas"
+    },
+    {
+        "source": "P10",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2025"
+    },
+    {
+        "source": "P10",
+        "relation": "HAS_KEYWORD",
+        "target": "ai and digital systems"
+    },
+    {
+        "source": "P10",
+        "relation": "HAS_KEYWORD",
+        "target": "ai governance"
+    },
+    {
+        "source": "P10",
+        "relation": "HAS_KEYWORD",
+        "target": "cybersecurity and healthcare"
+    },
+    {
+        "source": "P10",
+        "relation": "HAS_KEYWORD",
+        "target": "digital healthcare systems"
+    },
+    {
+        "source": "P10",
+        "relation": "HAS_KEYWORD",
+        "target": "healthcare disparities and digital health records"
+    },
+    {
+        "source": "P10",
+        "relation": "HAS_KEYWORD",
+        "target": "patient data security"
+    },
+    {
+        "source": "P10",
+        "relation": "HAS_KEYWORD",
+        "target": "racial and ethnicity bias. discrimination"
+    },
+    {
+        "source": "P11",
+        "relation": "WRITTEN_BY",
+        "target": "Charalampos Bratsas"
+    },
+    {
+        "source": "P11",
+        "relation": "WRITTEN_BY",
+        "target": "Efstathios K. Anastasiadi"
+    },
+    {
+        "source": "P11",
+        "relation": "PUBLISHED_IN",
+        "target": "Journal of Cybersecurity and Privacy (MDPI)"
+    },
+    {
+        "source": "P11",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2024"
+    },
+    {
+        "source": "P11",
+        "relation": "HAS_KEYWORD",
+        "target": "semantic"
+    },
+    {
+        "source": "P11",
+        "relation": "HAS_KEYWORD",
+        "target": "ontologies"
+    },
+    {
+        "source": "P11",
+        "relation": "HAS_KEYWORD",
+        "target": "knowledge graph"
+    },
+    {
+        "source": "P11",
+        "relation": "HAS_KEYWORD",
+        "target": "cybersecurity"
+    },
+    {
+        "source": "P11",
+        "relation": "HAS_KEYWORD",
+        "target": "cyber threat intelligence"
+    },
+    {
+        "source": "P12",
+        "relation": "WRITTEN_BY",
+        "target": "Syed Raza Abbas"
+    },
+    {
+        "source": "P12",
+        "relation": "PUBLISHED_IN",
+        "target": "Journal of Healthcare Engineering (PMC)"
+    },
+    {
+        "source": "P12",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2025"
+    },
+    {
+        "source": "P12",
+        "relation": "HAS_KEYWORD",
+        "target": "AI integration into smart healthcare systems"
+    },
+    {
+        "source": "P12",
+        "relation": "HAS_KEYWORD",
+        "target": "focusing on deployment and interpretability."
+    },
+    {
+        "source": "P13",
+        "relation": "WRITTEN_BY",
+        "target": "Ping Zhang"
+    },
+    {
+        "source": "P13",
+        "relation": "PUBLISHED_IN",
+        "target": "SSRN Electronic Journal (Preprint)"
+    },
+    {
+        "source": "P13",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2024"
+    },
+    {
+        "source": "P13",
+        "relation": "HAS_KEYWORD",
+        "target": "Digital transformation"
+    },
+    {
+        "source": "P13",
+        "relation": "HAS_KEYWORD",
+        "target": "Corporate finance"
+    },
+    {
+        "source": "P13",
+        "relation": "HAS_KEYWORD",
+        "target": "Bibliometric analysis"
+    },
+    {
+        "source": "P13",
+        "relation": "HAS_KEYWORD",
+        "target": "Firm investment"
+    },
+    {
+        "source": "P13",
+        "relation": "HAS_KEYWORD",
+        "target": "Financing"
+    },
+    {
+        "source": "P13",
+        "relation": "HAS_KEYWORD",
+        "target": "Firm value"
+    },
+    {
+        "source": "P14",
+        "relation": "WRITTEN_BY",
+        "target": "Hongyi Li"
+    },
+    {
+        "source": "P14",
+        "relation": "PUBLISHED_IN",
+        "target": "Complex & Intelligent Systems (Springer)"
+    },
+    {
+        "source": "P14",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2023"
+    },
+    {
+        "source": "P14",
+        "relation": "HAS_KEYWORD",
+        "target": "Cybersecurity knowledge graphs"
+    },
+    {
+        "source": "P14",
+        "relation": "HAS_KEYWORD",
+        "target": "ontology"
+    },
+    {
+        "source": "P14",
+        "relation": "HAS_KEYWORD",
+        "target": "quality assessment"
+    },
+    {
+        "source": "P14",
+        "relation": "HAS_KEYWORD",
+        "target": "graph construction"
+    },
+    {
+        "source": "P15",
+        "relation": "WRITTEN_BY",
+        "target": "Ji Dai"
+    },
+    {
+        "source": "P15",
+        "relation": "PUBLISHED_IN",
+        "target": "Innovation Medicine"
+    },
+    {
+        "source": "P15",
+        "relation": "PUBLISHED_YEAR",
+        "target": "2025"
+    },
+    {
+        "source": "P15",
+        "relation": "HAS_KEYWORD",
+        "target": "AI integration into smart healthcare systems"
+    },
+    {
+        "source": "P15",
+        "relation": "HAS_KEYWORD",
+        "target": "ai in health"
+    }
+]

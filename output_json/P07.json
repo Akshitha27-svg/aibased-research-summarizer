@@ -1,0 +1,107 @@
+{
+    "paper_id": "P07",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P07",
+        "Paper Title": "AI in the Battle Against Coronavirus",
+        "Primary Author": "Thanh Thi Nguyen",
+        "Authors Affiliations": "Oxford Univ.",
+        "Publication Year": 2020,
+        "Journal Name": "arXiv",
+        "Identifier (DOI/ID)": "https://arXiv:2008.07343",
+        "Keywords": "AI, Healthcare,covid-19,pandemic,",
+        "Domain": "Artificial Intelligence in Medicine"
+    },
+    "citations": [
+        {
+            "Paper ID": "P07",
+            "Paper Title": "AI in the Battle Against Coronavirus",
+            "Citations Count": 140,
+            "Cross Link Paper ID": "P04"
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0061",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Deep Learning for COVID-19 Diagnosis Using Chest X-Ray Images",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2020.3010287"
+        },
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0062",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "AI-Powered Drug Discovery for COVID-19 Treatment",
+            "Reference link": "https://doi.org/10.1038/s41587-020-0699-3"
+        },
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0063",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Machine Learning for COVID-19 Outbreak Prediction and Management",
+            "Reference link": "https://doi.org/10.1109/JBHI.2021.3056505"
+        },
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0064",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Natural Language Processing for COVID-19 Literature Analysis",
+            "Reference link": "https://doi.org/10.1093/jamia/ocaa093"
+        },
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0065",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Contact Tracing Applications Using AI During Pandemic",
+            "Reference link": "https://doi.org/10.1038/s41591-020-0931-3"
+        },
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0066",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Federated Learning for Privacy-Preserving COVID-19 Research",
+            "Reference link": "https://doi.org/10.1109/JBHI.2021.3074653"
+        },
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0067",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "AI-Assisted Telemedicine for COVID-19 Patient Management",
+            "Reference link": "https://doi.org/10.2196/19201"
+        },
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0068",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "CT Scan Analysis for COVID-19 Using Deep Learning",
+            "Reference link": "https://doi.org/10.1148/radiol.2020200905"
+        },
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0069",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Social Distancing Monitoring Using Computer Vision",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2021.3058432"
+        },
+        {
+            "Paper_ID": "P07",
+            "Ref_ID": "R0070",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Vaccine Development Acceleration Using AI Technologies",
+            "Reference link": "https://doi.org/10.1038/s41577-020-00479-7"
+        }
+    ]
+}

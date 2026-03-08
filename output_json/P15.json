@@ -1,0 +1,107 @@
+{
+    "paper_id": "P15",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P15",
+        "Paper Title": "AI for medicine 2025: Navigating the frontier",
+        "Primary Author": "Ji Dai",
+        "Authors Affiliations": "Chinese Acad. Sciences",
+        "Publication Year": 2025,
+        "Journal Name": "Innovation Medicine",
+        "Identifier (DOI/ID)": "10.59717/j.xinn-med.2025.100120",
+        "Keywords": "AI integration into smart healthcare systems, ai in health",
+        "Domain": "artificial Intelligence in Medicine"
+    },
+    "citations": [
+        {
+            "Paper ID": "P15",
+            "Paper Title": "AI for medicine 2025: Navigating the frontier",
+            "Citations Count": 14,
+            "Cross Link Paper ID": NaN
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0141",
+            "Citation Count": 0,
+            "Cited Year": 2024,
+            "Reference_Title": "Large Language Models in Clinical Medicine: Opportunities and Risks",
+            "Reference link": "https://doi.org/10.1056/NEJMra2308598"
+        },
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0142",
+            "Citation Count": 0,
+            "Cited Year": 2023,
+            "Reference_Title": "Foundation Models for Medical Imaging: A Survey",
+            "Reference link": "https://doi.org/10.1148/radiol.230753"
+        },
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0143",
+            "Citation Count": 0,
+            "Cited Year": 2024,
+            "Reference_Title": "Multimodal AI for Clinical Decision Support Systems",
+            "Reference link": "https://doi.org/10.1038/s41591-024-02856-5"
+        },
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0144",
+            "Citation Count": 0,
+            "Cited Year": 2023,
+            "Reference_Title": "Ethical AI Frameworks for Future Medical Applications",
+            "Reference link": "https://doi.org/10.1016/j.artmed.2023.102623"
+        },
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0145",
+            "Citation Count": 0,
+            "Cited Year": 2024,
+            "Reference_Title": "Real-World Evidence Generation Using AI in Healthcare",
+            "Reference link": "https://doi.org/10.1093/jamia/ocad234"
+        },
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0146",
+            "Citation Count": 0,
+            "Cited Year": 2023,
+            "Reference_Title": "AI-Assisted Surgery: Current State and Future Prospects",
+            "Reference link": "https://doi.org/10.1097/SLA.0000000000005892"
+        },
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0147",
+            "Citation Count": 0,
+            "Cited Year": 2024,
+            "Reference_Title": "Digital Therapeutics and AI-Powered Interventions",
+            "Reference link": "https://doi.org/10.2196/45678"
+        },
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0148",
+            "Citation Count": 0,
+            "Cited Year": 2023,
+            "Reference_Title": "Federated Learning for Multi-Institutional Medical Research",
+            "Reference link": "https://doi.org/10.1109/JBHI.2023.3287654"
+        },
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0149",
+            "Citation Count": 0,
+            "Cited Year": 2024,
+            "Reference_Title": "Continuous Learning Systems for Evolving Medical Knowledge",
+            "Reference link": "https://doi.org/10.1038/s41746-024-01012-3"
+        },
+        {
+            "Paper_ID": "P15",
+            "Ref_ID": "R0150",
+            "Citation Count": 0,
+            "Cited Year": 2023,
+            "Reference_Title": "Regulatory Pathways for Next-Generation Medical AI",
+            "Reference link": "https://doi.org/10.1038/s41551-023-01123-9"
+        }
+    ]
+}

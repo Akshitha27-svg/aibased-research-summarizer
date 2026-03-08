@@ -1,0 +1,31 @@
+# ----------------------------
+# System Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Python Cache Files
+# ----------------------------
+__pycache__/
+*.pyc
+
+# ----------------------------
+# Virtual Environment (if added later)
+# ----------------------------
+venv/
+.env
+
+# ----------------------------
+# VS Code Settings (optional)
+# ----------------------------
+.vscode/
+
+# ----------------------------
+# Neo4j Internal Files (if ever added)
+# ----------------------------
+Data/
+dbmss/
+transactions/
+*.db
+*.log

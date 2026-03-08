@@ -1,0 +1,107 @@
+{
+    "paper_id": "P10",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P10",
+        "Paper Title": "Digital Health Policy and Cybersecurity Regulations Regarding Artificial Intelligence (AI",
+        "Primary Author": "Abdullah Virk,Safanah Alasmari",
+        "Authors Affiliations": "Department of Ophthalmology, Flaum Eye Institute, University of Rochester, Rochester, USA",
+        "Publication Year": 2025,
+        "Journal Name": "Cureas",
+        "Identifier (DOI/ID)": "Cureus-305123",
+        "Keywords": "ai and digital systems, ai governance, cybersecurity and healthcare, digital healthcare systems, healthcare disparities and digital health records, patient data security, racial and ethnicity bias. discrimination",
+        "Domain": "Public Health, Healthcare Technology, Health Policy"
+    },
+    "citations": [
+        {
+            "Paper ID": "P10",
+            "Paper Title": "Digital Health Policy and Cybersecurity Regulations Regarding Artificial Intelligence (AI",
+            "Citations Count": 1,
+            "Cross Link Paper ID": NaN
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0091",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Regulatory Frameworks for AI in Digital Health",
+            "Reference link": "https://doi.org/10.1038/s41746-020-0262-2"
+        },
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0092",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "GDPR Compliance in Healthcare AI Systems",
+            "Reference link": "https://doi.org/10.1093/jamia/ocz084"
+        },
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0093",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Cybersecurity Standards for Medical IoT Devices",
+            "Reference link": "https://doi.org/10.1109/JBHI.2021.3089745"
+        },
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0094",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Policy Considerations for AI-Driven Healthcare",
+            "Reference link": "https://doi.org/10.1377/hlthaff.2018.05147"
+        },
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0095",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "FDA Regulation of AI/ML-Based Medical Devices",
+            "Reference link": "https://doi.org/10.1038/s41551-020-0538-y"
+        },
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0096",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Data Protection in Digital Health Ecosystems",
+            "Reference link": "https://doi.org/10.1016/j.ijmedinf.2019.104041"
+        },
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0097",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Ethical Guidelines for AI in Public Health",
+            "Reference link": "https://doi.org/10.1016/j.artmed.2021.102135"
+        },
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0098",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Interoperability Standards for Healthcare AI",
+            "Reference link": "https://doi.org/10.1093/jamia/ocaa068"
+        },
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0099",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Risk Assessment Framework for Medical AI Applications",
+            "Reference link": "https://doi.org/10.1109/JBHI.2019.2943362"
+        },
+        {
+            "Paper_ID": "P10",
+            "Ref_ID": "R0100",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Cross-Border Data Sharing Regulations in Digital Health",
+            "Reference link": "https://doi.org/10.1016/j.ijmedinf.2021.104523"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "paper_id": "P13",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P13",
+        "Paper Title": "Digital Transformation: A Systematic Review and Bibliometric Analysis from the Corporate Finance Perspective",
+        "Primary Author": "Ping Zhang",
+        "Authors Affiliations": "Capital University of Economics and Business",
+        "Publication Year": 2024,
+        "Journal Name": "SSRN Electronic Journal (Preprint)",
+        "Identifier (DOI/ID)": "https://doi.org/10.2139/ssrn.5053864",
+        "Keywords": "Digital transformation, Corporate finance, Bibliometric analysis, Firm investment, Financing, Firm value",
+        "Domain": "Finance"
+    },
+    "citations": [
+        {
+            "Paper ID": "P13",
+            "Paper Title": "Digital Transformation: A Systematic Review and Bibliometric Analysis from the Corporate Finance Perspective",
+            "Citations Count": 15,
+            "Cross Link Paper ID": NaN
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0121",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Digital Transformation Strategies in Financial Services",
+            "Reference link": "https://doi.org/10.1016/j.jbusres.2020.01.010"
+        },
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0122",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "FinTech Innovation and Traditional Banking Disruption",
+            "Reference link": "https://doi.org/10.1016/j.jfs.2019.100759"
+        },
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0123",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Blockchain Technology in Corporate Finance: A Systematic Review",
+            "Reference link": "https://doi.org/10.1007/s10479-021-04176-6"
+        },
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0124",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Cloud-Based Financial Management Systems",
+            "Reference link": "https://doi.org/10.1016/j.jclepro.2018.09.224"
+        },
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0125",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "AI and Automation in Financial Reporting and Auditing",
+            "Reference link": "https://doi.org/10.1111/ijau.12210"
+        },
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0126",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Digital Banking Transformation: Customer Experience and Innovation",
+            "Reference link": "https://doi.org/10.1016/j.jretconser.2019.101894"
+        },
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0127",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Smart Contracts for Financial Operations Management",
+            "Reference link": "https://doi.org/10.1016/j.techfore.2021.120810"
+        },
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0128",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Data Analytics for Strategic Financial Decision Making",
+            "Reference link": "https://doi.org/10.1016/j.ijinfomgt.2020.102234"
+        },
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0129",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Mobile Financial Services and Digital Inclusion",
+            "Reference link": "https://doi.org/10.1016/j.telpol.2019.101812"
+        },
+        {
+            "Paper_ID": "P13",
+            "Ref_ID": "R0130",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Cybersecurity Challenges in Digital Financial Ecosystems",
+            "Reference link": "https://doi.org/10.1016/j.cose.2021.102345"
+        }
+    ]
+}

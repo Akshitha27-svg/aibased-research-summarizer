@@ -1,0 +1,107 @@
+[
+    {
+        "Paper_ID": "P01",
+        "Paper Title": "The Promise and Perils of AI in Medicine",
+        "Citations ": 31,
+        "Cross Link Paper ID": "P07",
+        "Cited_Paper_ID": "P03"
+    },
+    {
+        "Paper_ID": "P02",
+        "Paper Title": "Social engineering in cybersecurity: a domain ontology and knowledge graph application examples",
+        "Citations ": 51,
+        "Cross Link Paper ID": "P09",
+        "Cited_Paper_ID": "P05"
+    },
+    {
+        "Paper_ID": "P03",
+        "Paper Title": "Machine Learning in Business and Finance: A Literature Review and Research Opportunities",
+        "Citations ": 48,
+        "Cross Link Paper ID": "P07",
+        "Cited_Paper_ID": "P07"
+    },
+    {
+        "Paper_ID": "P04",
+        "Paper Title": "SoK: Security and Privacy Risks of Medical AI",
+        "Citations ": 120,
+        "Cross Link Paper ID": "P07",
+        "Cited_Paper_ID": "P09"
+    },
+    {
+        "Paper_ID": "P05",
+        "Paper Title": "XAI for Cybersecurity: State of the Art",
+        "Citations ": 95,
+        "Cross Link Paper ID": "P09",
+        "Cited_Paper_ID": "P04"
+    },
+    {
+        "Paper_ID": "P06",
+        "Paper Title": "Advanced AI & Big Data Techniques in E-Finance",
+        "Citations ": 88,
+        "Cross Link Paper ID": "P01",
+        "Cited_Paper_ID": "P05"
+    },
+    {
+        "Paper_ID": "P07",
+        "Paper Title": "AI in the Battle Against Coronavirus",
+        "Citations ": 140,
+        "Cross Link Paper ID": "P04",
+        "Cited_Paper_ID": "P01"
+    },
+    {
+        "Paper_ID": "P08",
+        "Paper Title": "Exploring the Impact of AI-Based Cyber Security Financial\nSector Management",
+        "Citations ": 143,
+        "Cross Link Paper ID": "P06",
+        "Cited_Paper_ID": "P06"
+    },
+    {
+        "Paper_ID": "P09",
+        "Paper Title": "Explainable Artificial Intelligence (XAI) for Malware Analysis: A Survey of Techniques, Applications, and Open Challenges",
+        "Citations ": 20,
+        "Cross Link Paper ID": "P08",
+        "Cited_Paper_ID": "P02"
+    },
+    {
+        "Paper_ID": "P10",
+        "Paper Title": "Digital Health Policy and Cybersecurity Regulations Regarding Artificial Intelligence (AI",
+        "Citations ": 1,
+        "Cross Link Paper ID": "P02",
+        "Cited_Paper_ID": "P08"
+    },
+    {
+        "Paper_ID": "P11",
+        "Paper Title": "Knowledge Graphs and Semantic Web Tools in Cyber Threat Intelligence: A Systematic Literature Review",
+        "Citations ": 12,
+        "Cross Link Paper ID": "P04",
+        "Cited_Paper_ID": "P12"
+    },
+    {
+        "Paper_ID": "P12",
+        "Paper Title": "Exploring the Role of Artificial Intelligence in Smart Healthcare: A Capability and Function-Oriented Review",
+        "Citations ": 14,
+        "Cross Link Paper ID": "P11",
+        "Cited_Paper_ID": "P10"
+    },
+    {
+        "Paper_ID": "P13",
+        "Paper Title": "Digital Transformation: A Systematic Review and Bibliometric Analysis from the Corporate Finance Perspective",
+        "Citations ": 15,
+        "Cross Link Paper ID": "P10",
+        "Cited_Paper_ID": "P11"
+    },
+    {
+        "Paper_ID": "P14",
+        "Paper Title": "Cybersecurity knowledge graphs construction and quality assessment",
+        "Citations ": 31,
+        "Cross Link Paper ID": "P11",
+        "Cited_Paper_ID": "P14"
+    },
+    {
+        "Paper_ID": "P15",
+        "Paper Title": "AI for medicine 2025: Navigating the frontier",
+        "Citations ": 14,
+        "Cross Link Paper ID": "P15",
+        "Cited_Paper_ID": "P15"
+    }
+]

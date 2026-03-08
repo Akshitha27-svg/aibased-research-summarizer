@@ -1,0 +1,191 @@
+paper_id,title,abstract
+Research paper-1,arXiv:2505.06971v1  [cs.CY]  11 May 2025,"Abstract
+What does Artificial Intelligence (AI) have to contribute to health care? And
+what should we be looking out for if we are worried about its risks? In this paper
+we offer a survey, and initial evaluation, of hopes and fears about the applica-
+tions of artificial intelligence in medicine. AI clearly has enormous potential as
+a research tool, in genomics and public health especially, as well as a diagnostic
+aid. It’s also highly likely to impact on the organisational and business practices
+of healthcare systems in ways that are perhaps under-appreciated. Enthusiasts
+for AI have held out the prospect that it will free physicians up to spend more
+time attending to what really matters to them and their patients. We will argue
+that this claim depends upon implausible assumptions about the institutional
+and economic imperatives operating in contemporary healthcare settings. We
+will also highlight important concerns about privacy, surveillance, and bias in big
+data, as well as the risk"
+Research paper-10,Review began 01/17/2025,"Abstract
+The landscape of healthcare is rapidly changing with the increasing usage of machine and deep learning
+artificial intelligence and digital tools to assist in various sectors. This study aims to analyze the feasibility
+of the implementation of artificial intelligence (AI) models into healthcare systems. This review included
+English-language publications from databases such as SCOPUS, PubMed, and Google Scholar between 2000
+and 2024. AI integration in healthcare systems will assist in large-scale dataset analysis, access to healthcare
+information, surgery data and simulation, and clinical decision-making in addition to many other
+healthcare services. However, with the reliance on AI, issues regarding medical liability, cybersecurity, and
+health disparities can form. This necessitates updates and transparency on health policy, AI training, and
+cybersecurity measures. To support the implementation of AI in healthcare, transparency regarding AI
+algorithm training and analytical app"
+Research paper-11,,"Abstract: The amount of data related to cyber threats and cyber attack incidents is rapidly increasing.
+The extracted information can provide security analysts with useful Cyber Threat Intelligence (CTI)
+to enhance their decision-making. However, because the data sources are heterogeneous, there is
+a lack of common representation of information, rendering the analysis of CTI complicated. With
+this work, we aim to review ongoing research on the use of semantic web tools such as ontologies
+and Knowledge Graphs (KGs) within the CTI domain. Ontologies and KGs can effectively represent
+information in a common and structured schema, enhancing interoperability among the Security
+Operation Centers (SOCs) and the stakeholders on the field of cybersecurity. When fused with
+Machine Learning (ML) and Deep Learning (DL) algorithms, the constructed ontologies and KGs can
+be augmented with new information and advanced inference capabilities, facilitating the discovery
+of previously unknown CTI. This"
+Research paper-12,Academic Editor: Matthew Chin,"Abstract
+Artificial Intelligence (AI) is transforming smart healthcare by enhancing diagnostic preci-
+sion, automating clinical workflows, and enabling personalized treatment strategies. This
+review explores the current landscape of AI in healthcare from two key perspectives: capa-
+bility types (e.g., Narrow AI and AGI) and functional architectures (e.g., Limited Memory
+and Theory of Mind). Based on capabilities, most AI systems today are categorized as
+Narrow AI, performing specific tasks such as medical image analysis and risk prediction
+with high accuracy. More advanced forms like General Artificial Intelligence (AGI) and
+Superintelligent AI remain theoretical but hold transformative potential. From a functional
+standpoint, Limited Memory AI dominates clinical applications by learning from historical
+patient data to inform decision-making. Reactive systems are used in rule-based alerts,
+while Theory of Mind (ToM) and Self-Aware AI remain conceptual stages for future devel-
+opment. T"
+Research paper-13,Digital transformation: A systematic review and bibliometric,"Abstract: Digital transformation significantly impacts firm investment, financing, 
+and value enhancement. A systematic investigation from the corporate finance 
+perspective has not yet been formed. This paper combines bibliometric and content 
+analysis methods to systematically review the evolutionary trend, status quo, hotspots 
+and overall structure of research in digital transformation from 2011 to 2024. The study 
+reveals an emerging and rapidly growing focus on digital transformation research, 
+particularly in developed countries. We categorize the literature into three areas 
+according to bibliometric clustering: the measurements (qualitative and quantitative), 
+impact factors (internal and external), and the economic consequences (investment, 
+financing, and firm value). These areas are divided into ten sub-branches, with a 
+detailed literature review. We also review the existing theories related to digital 
+transformation, identify the current gaps in these papers, and provide"
+Research paper-14,Complex & Intelligent Systems,"Abstract
+Cyber-attack activities are complex and ever-changing, posing severe challenges to cybersecurity personnel. Introducing
+knowledge graphs into the ﬁeld of cybersecurity helps depict the intricate cybersecurity landscape and provides technical
+support for threat identiﬁcation and situational awareness. However, during the process of constructing knowledge graphs,
+inevitable noise and conﬂicts may be introduced, leading to misleading inferences and decisions. This paper aims to address
+the issues of constructing and assessing the quality of cybersecurity knowledge graphs. We manually constructed a dataset
+of cybersecurity knowledge graphs (CS13K) and expanded the existing cybersecurity ontology, building a more versatile
+ontology applicable to existing data features. Building upon this, we utilized Neo4j to construct the cybersecurity knowledge
+graph. Furthermore, we propose an AttTucker model, based on Transformer, for assessing the quality of knowledge graphs.
+By employing nume"
+Research paper-15,,"ABSTRACT
+PUBLIC SUMMARY
+■    AI helps us understand the complex medical phenotypes and diverse data.
+■   AI forecasts the forthcoming medical innovations in surgical robots and BCI.
+■   AI will solve the low birth rate and aging population challenges of human beings.
+Medicine
+   
+REVIEW
+The Innovation Medicine 3(1): 100120, February 27, 2025　　　  1
+ 
+Artificial intelligence for medicine 2025:
+Navigating the endless frontier
+Ji Dai,1,17 Huiyu Xu,2,17 Tao Chen,3,4,17 Tao Huang,5,17,* Weiqi Liang,4 Rui Zhang,6 Gengxin Xu,6 Zhiting Zhang,1 Le Xue,7 Yi Gao,8 Mingyue Zheng,9
+Guoshuang Feng,10 Zhe Zhang,11,12 Jinle Tang,11,12 Jian Zhan,11,12 Yaoqi Zhou,11,12,* Ye Li,6,* Yixue Li,5,13,14,* and Mei Tian15,16,*
+ 1Shenzhen Technological Research Center for Primate Translational Medicine, Shenzhen-Hong Kong Institute of Brain Science,
+Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518055, China
+ 2Center for Reproductive Medicine, Department of Obstetrics and Gynec"
+Research paper-2,Cybersecurity,"Abstract
+Social engineering has posed a serious threat to cyberspace security. To protect against social engineering attacks, a
+fundamental work is to know what constitutes social engineering. This paper first develops a domain ontology of
+social engineering in cybersecurity and conducts ontology evaluation by its knowledge graph application. The
+domain ontology defines 11 concepts of core entities that significantly constitute or affect social engineering domain,
+together with 22 kinds of relations describing how these entities related to each other. It provides a formal and explicit
+knowledge schema to understand, analyze, reuse and share domain knowledge of social engineering. Furthermore,
+this paper builds a knowledge graph based on 15 social engineering attack incidents and scenarios. 7 knowledge
+graph application examples (in 6 analysis patterns) demonstrate that the ontology together with knowledge graph is
+useful to 1) understand and analyze social engineering attack scenario a"
+Research paper-3,Open Access,"Abstract 
+This study provides a comprehensive review of machine learning (ML) applications 
+in the fields of business and finance. First, it introduces the most commonly used ML 
+techniques and explores their diverse applications in marketing, stock analysis, demand 
+forecasting, and energy marketing. In particular, this review critically analyzes over 100 
+articles and reveals a strong inclination toward deep learning techniques, such as deep 
+neural, convolutional neural, and recurrent neural networks, which have garnered 
+immense popularity in financial contexts owing to their remarkable performance. This 
+review shows that ML techniques, particularly deep learning, demonstrate substantial 
+potential for enhancing business decision-making processes and achieving more accu‑
+rate and efficient predictions of financial outcomes. In particular, ML techniques exhibit 
+promising research prospects in cryptocurrencies, financial crime detection, and mar‑
+keting, underscoring the extensive"
+Research paper-4,arXiv:2409.07415v2  [cs.CR]  30 Apr 2025,"Abstract
+The integration of artiﬁcial intelligence (AI) and machine
+learning (ML) into healthcare systems holds great promise
+for enhancing patient care and care delivery efﬁciency; how-
+ever, it also exposes sensitive data and system integrity to
+potential cyberattacks. Current security and privacy (S&P)
+research on healthcare AI is highly unbalanced in terms of
+healthcare deployment scenarios and threat models, and has
+a disconnected focus with the biomedical research commu-
+nity.
+This hinders a comprehensive understanding of the
+risks that healthcare AI entails. To address this gap, this pa-
+per takes a thorough examination of existing healthcare AI
+S&P research, providing a uniﬁed framework that allows the
+identiﬁcation of under-explored areas. Our survey presents
+a systematic overview of healthcare AI attacks and defenses,
+and points out challenges and research opportunities for each
+AI-driven healthcare application domain. Through our ex-
+perimental analysis of different threat m"
+Research paper-5,"XAI for Cybersecurity: State of the Art, Challenges, Open Issues and","Abstracting with credit is permitted. To copy
+otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from
+permissions@acm.org.
+© 2022 Association for Computing Machinery.
+0360-0300/2022/6-ART $15.00
+https://doi.org/10.1145/1122445.1122456
+ACM Comput. Surv., Vol. 1, No. 1, Article . Publication date: June 2022.
+arXiv:2206.03585v1  [cs.CR]  3 Jun 2022
+2
+•
+Gautam Srivastava, et al.
+CCS Concepts: • Big Data; • Security; • Digital Assets; • Digital Twin; • Immutability;
+Additional Key Words and Phrases: AI, XAI, Cybersecurity
+ACM Reference Format:
+Gautam Srivastava, Rutvij H Jhaveri, Sweta Bhattacharya, Sharnil Pandya, Rajeswari, Praveen Kumar Reddy Maddikunta, Gokul
+Yenduri, Jon G. Hall, Mamoun Alazab, and Thippa Reddy Gadekallu. 2022. XAI for Cybersecurity: State of the Art, Challenges,
+Open Issues and Future Directions. ACM Comput. Surv. 1, 1 (June 2022), 33 pages. https://doi.org/10.1145/1122445.11224"
+Research paper-6,Vol.:(0123456789),"Abstract
+The finance sector is one of those that have had a dramatic change after the integration of technology and more so Arti-
+ficial Intelligence, Big Data, Text Mining and Cloud computing which has also given way to the development of e-finance 
+where electronic channels together with digital technologies are used to deliver financial services. E-finance takes advan-
+tage of these new technologies to provide easy, efficient, and innovative financial services to people. This makes it pos-
+sible for DFI to reduce expenses, make data-informed decisions and improve their experience for clients but also opens 
+access to financial services for people in emerging markets. Advances need to ensure data protection and secrecy for 
+the well and confidence in financial industry as well: research will scrutinize effects due technological progress on AI 
+plus Big Data, Text Mining or Cloud Computing within Finance. This paper attempts a comprehensive review of litera-
+ture through scholarly art"
+Research paper-7,Artiﬁcial Intelligence in the Battle against Coronavirus,"Abstract
+Artiﬁcial intelligence (AI) has been applied widely in our daily lives in a variety of ways with numerous
+success stories.
+AI has also contributed to dealing with the coronavirus disease (COVID-19) pandemic,
+which has been happening around the globe. This paper presents a survey of AI methods being used in
+various applications in the ﬁght against the COVID-19 outbreak and outlines the crucial role of AI research
+in this unprecedented battle. We touch on areas where AI plays as an essential component, from medical
+image processing, data analytics, text mining and natural language processing, the Internet of Things, to
+computational biology and medicine. A summary of COVID-19 related data sources that are available for
+research purposes is also presented. Research directions on exploring the potential of AI and enhancing its
+capability and power in the pandemic battle are thoroughly discussed. We identify 13 groups of problems
+related to the COVID-19 pandemic and highlight promi"
+Research paper-8,"Citation: Mishra, S. Exploring the","Abstract: Cyber threats are attempts to secure unauthorized access to, change, or delete private infor-
+mation, to demand money from victims, or to disrupt business. Cybercrime includes everything from
+identity theft, malware threats, email and online fraud, to bank fraud. Businesses and individuals
+use this method to guard their data centers and other digital systems. The lack of scalability, sluggish
+response times, and inability to spot advanced and insider threats are among some of the problems
+with conventional approaches to network security. These ﬂaws highlight the need for research to
+build more efﬁcient and all-encompassing security methods to guard against the expanding variety
+of network attacks. Cybercriminals use AI and data poisoning, as well as model theft strategies
+to automate their attacks. A cyber security technique based on artiﬁcial intelligence is presented
+in this study for ﬁnancial sector management (CS-FSM). In order to map and prevent unexpected
+risks from dev"
+Research paper-9,Manthena et al.: Preparation of Papers for IEEE ACCESS,"ABSTRACT Machine learning (ML) has rapidly advanced in recent years, revolutionizing fields such
+as finance, medicine, and cybersecurity. In malware detection, ML-based approaches have demonstrated
+high accuracy; however, their lack of transparency poses a significant challenge. Traditional black-box
+models often fail to provide interpretable justifications for their predictions, limiting their adoption in
+security-critical environments where understanding the reasoning behind a detection is essential for threat
+mitigation and response. Explainable AI (XAI) addresses this gap by enhancing model interpretability
+while maintaining strong detection capabilities. This survey presents a comprehensive review of state-
+of-the-art ML techniques for malware analysis, with a specific focus on explainability methods and
+research mainly from 2018 to 2024. We examine existing XAI frameworks, their application in malware
+classification and detection, and the challenges associated with making malware"

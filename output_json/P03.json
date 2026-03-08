@@ -1,0 +1,107 @@
+{
+    "paper_id": "P03",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P03",
+        "Paper Title": "Machine Learning in Business and Finance: A Literature Review and Research Opportunities",
+        "Primary Author": "Hanyao Gao",
+        "Authors Affiliations": "Business School, Sichuan University, Chengdu, China",
+        "Publication Year": 2024,
+        "Journal Name": "Financial Innovation — Volume 10, Article 86",
+        "Identifier (DOI/ID)": "https://doi.org/10.1186/s40854-024-00629-z",
+        "Keywords": "Machine learning, Business, Finance, Marketing, Deep learning, Financial forecasting, Application review",
+        "Domain": "Business analytics-Finance science"
+    },
+    "citations": [
+        {
+            "Paper ID": "P03",
+            "Paper Title": "Machine Learning in Business and Finance: A Literature Review and Research Opportunities",
+            "Citations Count": 48,
+            "Cross Link Paper ID": NaN
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0021",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Machine Learning in Finance: A Survey of Applications and Techniques",
+            "Reference link": "https://doi.org/10.1016/j.eswa.2020.113958"
+        },
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0022",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Deep Learning for Financial Time Series Forecasting",
+            "Reference link": "https://doi.org/10.1109/TNNLS.2019.2929634"
+        },
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0023",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "AI-Driven Business Analytics: Current State and Future Directions",
+            "Reference link": "https://doi.org/10.1016/j.dss.2021.113621"
+        },
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0024",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Credit Risk Assessment Using Machine Learning: A Comprehensive Review",
+            "Reference link": "https://doi.org/10.1016/j.eswa.2018.08.030"
+        },
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0025",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Natural Language Processing for Financial Text Analysis",
+            "Reference link": "https://doi.org/10.1145/3383455.3422558"
+        },
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0026",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Algorithmic Trading Using Deep Reinforcement Learning",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2019.2947966"
+        },
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0027",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Machine Learning Applications in Banking and Financial Services",
+            "Reference link": "https://doi.org/10.1007/s10614-021-10142-8"
+        },
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0028",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Fraud Detection in Financial Transactions Using AI Techniques",
+            "Reference link": "https://doi.org/10.1109/TETC.2018.2873384"
+        },
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0029",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Predictive Analytics in Business Intelligence: A Machine Learning Approach",
+            "Reference link": "https://doi.org/10.1016/j.ijinfomgt.2020.102234"
+        },
+        {
+            "Paper_ID": "P03",
+            "Ref_ID": "R0030",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Portfolio Optimization Using Machine Learning Algorithms",
+            "Reference link": "https://doi.org/10.1016/j.eswa.2019.112943"
+        }
+    ]
+}

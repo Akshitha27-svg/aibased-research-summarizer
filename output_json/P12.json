@@ -1,0 +1,107 @@
+{
+    "paper_id": "P12",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P12",
+        "Paper Title": "Exploring the Role of Artificial Intelligence in Smart Healthcare: A Capability and Function-Oriented Review",
+        "Primary Author": "Syed Raza Abbas ",
+        "Authors Affiliations": "Department of Precision Medicine, School of Medicine, Sungkyunkwan University, Suwon 16419, Republic of Korea",
+        "Publication Year": 2025,
+        "Journal Name": "Journal of Healthcare Engineering (PMC)",
+        "Identifier (DOI/ID)": "PMC12295214",
+        "Keywords": "AI integration into smart healthcare systems, focusing on deployment and interpretability.",
+        "Domain": "Artificial Intelligence in Medicine"
+    },
+    "citations": [
+        {
+            "Paper ID": "P12",
+            "Paper Title": "Exploring the Role of Artificial Intelligence in Smart Healthcare: A Capability and Function-Oriented Review",
+            "Citations Count": 14,
+            "Cross Link Paper ID": NaN
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0111",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Internet of Medical Things: Architectures Applications and Challenges",
+            "Reference link": "https://doi.org/10.1109/JIOT.2020.2984973"
+        },
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0112",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Deep Learning for Electronic Health Records Analysis",
+            "Reference link": "https://doi.org/10.1038/s41598-019-47765-9"
+        },
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0113",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Wearable Sensors and AI for Remote Patient Monitoring",
+            "Reference link": "https://doi.org/10.1109/JBHI.2021.3078454"
+        },
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0114",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Predictive Analytics in Healthcare: A Systematic Review",
+            "Reference link": "https://doi.org/10.1016/j.ijmedinf.2018.10.004"
+        },
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0115",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Personalized Medicine Using AI and Genomic Data",
+            "Reference link": "https://doi.org/10.1038/s41591-020-0931-3"
+        },
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0116",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "AI-Powered Clinical Decision Support Systems",
+            "Reference link": "https://doi.org/10.1093/jamia/ocz052"
+        },
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0117",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Smart Hospital Infrastructure and AI Integration",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2021.3089234"
+        },
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0118",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Natural Language Processing for Medical Documentation",
+            "Reference link": "https://doi.org/10.1093/jamia/ocaa173"
+        },
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0119",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Edge Computing for Real-Time Healthcare Analytics",
+            "Reference link": "https://doi.org/10.1109/JIOT.2019.2946440"
+        },
+        {
+            "Paper_ID": "P12",
+            "Ref_ID": "R0120",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Multimodal AI for Comprehensive Patient Assessment",
+            "Reference link": "https://doi.org/10.1038/s41746-021-00469-8"
+        }
+    ]
+}

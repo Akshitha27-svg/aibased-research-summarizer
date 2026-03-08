@@ -1,0 +1,107 @@
+{
+    "paper_id": "P11",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P11",
+        "Paper Title": "Knowledge Graphs and Semantic Web Tools in Cyber Threat Intelligence: A Systematic Literature Review",
+        "Primary Author": "Charalampos Bratsas, Efstathios K. Anastasiadi",
+        "Authors Affiliations": "\nDepartment of Information and Electronic Engineering, International Hellenic University, 57400 Thessaloniki, Greece",
+        "Publication Year": 2024,
+        "Journal Name": "Journal of Cybersecurity and Privacy (MDPI)",
+        "Identifier (DOI/ID)": "https://doi.org/10.3390/jcp4030025",
+        "Keywords": " semantic; ontologies; knowledge graph; cybersecurity; cyber threat intelligence",
+        "Domain": "Cybersecurity"
+    },
+    "citations": [
+        {
+            "Paper ID": "P11",
+            "Paper Title": "Knowledge Graphs and Semantic Web Tools in Cyber Threat Intelligence: A Systematic Literature Review",
+            "Citations Count": 12,
+            "Cross Link Paper ID": "P04"
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0101",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Knowledge Graph Construction for Cyber Threat Intelligence",
+            "Reference link": "https://doi.org/10.1145/3387902.3392591"
+        },
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0102",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Semantic Web Technologies for Cybersecurity",
+            "Reference link": "https://doi.org/10.1007/s10207-019-00458-9"
+        },
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0103",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Automated Threat Intelligence Using Knowledge Graphs",
+            "Reference link": "https://doi.org/10.1016/j.cose.2021.102398"
+        },
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0104",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Ontology-Based CTI Sharing and Integration",
+            "Reference link": "https://doi.org/10.1109/TrustCom.2018.00124"
+        },
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0105",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Graph Neural Networks for Cyber Attack Detection",
+            "Reference link": "https://doi.org/10.1109/TIFS.2020.3021899"
+        },
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0106",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "STIX and TAXII for Threat Intelligence Exchange",
+            "Reference link": "https://doi.org/10.1145/3339252.3341480"
+        },
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0107",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Reasoning and Inference in Cybersecurity Knowledge Graphs",
+            "Reference link": "https://doi.org/10.1016/j.eswa.2021.115612"
+        },
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0108",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Entity Extraction from Threat Reports Using NLP",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2020.3012567"
+        },
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0109",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Temporal Knowledge Graphs for Attack Pattern Analysis",
+            "Reference link": "https://doi.org/10.1145/3319535.3354245"
+        },
+        {
+            "Paper_ID": "P11",
+            "Ref_ID": "R0110",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Heterogeneous Graph Learning for Threat Hunting",
+            "Reference link": "https://doi.org/10.1109/TDSC.2021.3098765"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "paper_id": "P14",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P14",
+        "Paper Title": "Cybersecurity knowledge graphs construction and quality assessment",
+        "Primary Author": "Hongyi Li",
+        "Authors Affiliations": "2 3 4 School of Mathematical Sciences, Beihang University, Beijing 100191, China",
+        "Publication Year": 2023,
+        "Journal Name": "Complex & Intelligent Systems (Springer)",
+        "Identifier (DOI/ID)": "https://doi.org/10.1007/s40747-023-01205-1",
+        "Keywords": "Cybersecurity knowledge graphs, ontology, quality assessment, graph construction",
+        "Domain": "Cybersecurity — Semantic Knowledge Graphs"
+    },
+    "citations": [
+        {
+            "Paper ID": "P14",
+            "Paper Title": "Cybersecurity knowledge graphs construction and quality assessment",
+            "Citations Count": 31,
+            "Cross Link Paper ID": "P11"
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0131",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Knowledge Graph Quality Assessment: A Survey",
+            "Reference link": "https://doi.org/10.1145/3418226"
+        },
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0132",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Building Domain-Specific Knowledge Graphs for Cybersecurity",
+            "Reference link": "https://doi.org/10.1109/BigData.2019.8978934"
+        },
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0133",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Graph Embedding Techniques for Cybersecurity Applications",
+            "Reference link": "https://doi.org/10.1109/TIFS.2021.3067895"
+        },
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0134",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "RDF and OWL for Cybersecurity Knowledge Representation",
+            "Reference link": "https://doi.org/10.1007/s10207-018-0409-x"
+        },
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0135",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Link Prediction in Cybersecurity Knowledge Graphs",
+            "Reference link": "https://doi.org/10.1016/j.cose.2020.101967"
+        },
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0136",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Knowledge Graph Completion for Threat Intelligence",
+            "Reference link": "https://doi.org/10.1145/3319535.3354256"
+        },
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0137",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Quality Metrics for Cybersecurity Ontologies",
+            "Reference link": "https://doi.org/10.1016/j.eswa.2021.115789"
+        },
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0138",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Temporal Dynamics in Cybersecurity Knowledge Graphs",
+            "Reference link": "https://doi.org/10.1109/TKDE.2020.3012789"
+        },
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0139",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Automated Knowledge Graph Construction from Security Reports",
+            "Reference link": "https://doi.org/10.1145/3357384.3358063"
+        },
+        {
+            "Paper_ID": "P14",
+            "Ref_ID": "R0140",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Federated Knowledge Graphs for Collaborative Threat Intelligence",
+            "Reference link": "https://doi.org/10.1109/TDSC.2021.3089432"
+        }
+    ]
+}

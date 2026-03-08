@@ -1,0 +1,107 @@
+{
+    "paper_id": "P08",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P08",
+        "Paper Title": "Exploring the Impact of AI-Based Cyber Security Financial\nSector Management",
+        "Primary Author": "Shailendra Mishra",
+        "Authors Affiliations": "Department of Computer Engineering, College of Computer and Information Sciences, Majmaah University, Al Majmaah 11952, Saudi Arabi",
+        "Publication Year": 2023,
+        "Journal Name": "Applied Sciences",
+        "Identifier (DOI/ID)": "10.3390/app13105875",
+        "Keywords": "artificial intelligence; enhanced encryption; financial sector; cyber security",
+        "Domain": "Finance"
+    },
+    "citations": [
+        {
+            "Paper ID": "P08",
+            "Paper Title": "Exploring the Impact of AI-Based Cyber Security Financial\nSector Management",
+            "Citations Count": 143,
+            "Cross Link Paper ID": NaN
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0071",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "AI-Powered Financial Fraud Detection: A Comprehensive Survey",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2020.3045654"
+        },
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0072",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Cybersecurity Threat Intelligence for Financial Institutions",
+            "Reference link": "https://doi.org/10.1016/j.cose.2019.101623"
+        },
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0073",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Deep Learning for Anti-Money Laundering in Banking",
+            "Reference link": "https://doi.org/10.1007/s10614-021-10178-w"
+        },
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0074",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Network Security in Financial Systems Using Machine Learning",
+            "Reference link": "https://doi.org/10.1109/TrustCom.2018.00093"
+        },
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0075",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Anomaly Detection in Financial Transactions Using AI",
+            "Reference link": "https://doi.org/10.1016/j.eswa.2020.113598"
+        },
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0076",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Cyber Risk Management in Fintech: An AI Approach",
+            "Reference link": "https://doi.org/10.1016/j.jfs.2019.100691"
+        },
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0077",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Behavioral Biometrics for Online Banking Security",
+            "Reference link": "https://doi.org/10.1109/TIFS.2021.3068428"
+        },
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0078",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Insider Threat Detection in Financial Organizations",
+            "Reference link": "https://doi.org/10.1016/j.cose.2020.102089"
+        },
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0079",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Zero-Day Attack Detection in Financial Networks",
+            "Reference link": "https://doi.org/10.1109/TDSC.2019.2935443"
+        },
+        {
+            "Paper_ID": "P08",
+            "Ref_ID": "R0080",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "AI-Enhanced Security Operations Centers for Banks",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2021.3067234"
+        }
+    ]
+}

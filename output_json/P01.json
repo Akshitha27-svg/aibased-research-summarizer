@@ -1,0 +1,107 @@
+{
+    "paper_id": "P01",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P01",
+        "Paper Title": "The Promise and Perils of AI in Medicine",
+        "Primary Author": "Robert Sparrow; Joshua Hatherley",
+        "Authors Affiliations": "Monash University; University of Copenhagen",
+        "Publication Year": 2025,
+        "Journal Name": "arXiv",
+        "Identifier (DOI/ID)": "https://arXiv:2505.06971",
+        "Keywords": "AI ethics, bias, clinical decision support, transparency",
+        "Domain": "Artificial Intelligence in Medicine"
+    },
+    "citations": [
+        {
+            "Paper ID": "P01",
+            "Paper Title": "The Promise and Perils of AI in Medicine",
+            "Citations Count": 31,
+            "Cross Link Paper ID": "P07"
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0001",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Deep Learning in Medical Image Analysis",
+            "Reference link": "https://doi.org/10.1146/annurev-bioeng-071516-044442"
+        },
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0002",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Artificial Intelligence in Healthcare: Past Present and Future",
+            "Reference link": "https://doi.org/10.1016/j.jbi.2020.103488"
+        },
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0003",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Machine Learning for Healthcare Applications",
+            "Reference link": "https://doi.org/10.1145/3168776"
+        },
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0004",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Clinical Decision Support Systems Using AI: A Systematic Review",
+            "Reference link": "https://doi.org/10.1016/j.jbi.2021.103912"
+        },
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0005",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Explainable AI for Medical Diagnosis: A Survey",
+            "Reference link": "https://doi.org/10.1109/TNNLS.2019.2908765"
+        },
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0006",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Deep Learning Applications in Medical Imaging: Current Status and Future Directions",
+            "Reference link": "https://doi.org/10.1148/radiol.2020192134"
+        },
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0007",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Opportunities and Challenges of AI in Healthcare",
+            "Reference link": "https://doi.org/10.1038/s41591-018-0300-7"
+        },
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0008",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Ethical Considerations in AI-driven Medical Decision Making",
+            "Reference link": "https://doi.org/10.1016/j.artmed.2021.102108"
+        },
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0009",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Validation of Machine Learning Models in Clinical Practice",
+            "Reference link": "https://doi.org/10.1001/jama.2019.18591"
+        },
+        {
+            "Paper_ID": "P01",
+            "Ref_ID": "R0010",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Regulatory Frameworks for AI in Medicine",
+            "Reference link": "https://doi.org/10.1038/s41746-020-0262-2"
+        }
+    ]
+}

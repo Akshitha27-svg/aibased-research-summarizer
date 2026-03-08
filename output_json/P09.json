@@ -1,0 +1,107 @@
+{
+    "paper_id": "P09",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P09",
+        "Paper Title": "Explainable Artificial Intelligence (XAI) for Malware Analysis: A Survey of Techniques, Applications, and Open Challenges",
+        "Primary Author": "HARIKHA MANTHENA,SHAGHAYEGH SHAJARIAN1",
+        "Authors Affiliations": "North Carolina Agricultural and Technical State University, Greensboro, North Carolina, USA 2Tennessee Tech University, Cookeville, Tennessee, USA",
+        "Publication Year": 2024,
+        "Journal Name": "arXiv",
+        "Identifier (DOI/ID)": "arXiv:2409.13723",
+        "Keywords": "Explainable Malware Analysis, Interpretable Malware Analysis, Explainable AI, AI for Security, Malware Detection, and Malware Classification",
+        "Domain": "Cybersecurity"
+    },
+    "citations": [
+        {
+            "Paper ID": "P09",
+            "Paper Title": "Explainable Artificial Intelligence (XAI) for Malware Analysis: A Survey of Techniques, Applications, and Open Challenges",
+            "Citations Count": 20,
+            "Cross Link Paper ID": NaN
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0081",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Explainable Deep Learning for Malware Classification",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2020.3022532"
+        },
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0082",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Interpretable Machine Learning in Malware Detection",
+            "Reference link": "https://doi.org/10.1145/3319535.3339814"
+        },
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0083",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "SHAP Values for Android Malware Analysis",
+            "Reference link": "https://doi.org/10.1016/j.cose.2021.102467"
+        },
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0084",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Transparent Neural Networks for Malware Family Classification",
+            "Reference link": "https://doi.org/10.1109/TDSC.2018.2878717"
+        },
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0085",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Attention Mechanisms for Explainable Malware Detection",
+            "Reference link": "https://doi.org/10.1145/3372297.3417862"
+        },
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0086",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Feature Importance Analysis in Malware Detection Systems",
+            "Reference link": "https://doi.org/10.1007/s11416-019-00346-9"
+        },
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0087",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Visual Explanations for Deep Learning-Based Malware Analysis",
+            "Reference link": "https://doi.org/10.1109/TIFS.2021.3098971"
+        },
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0088",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Rule Extraction from Neural Networks for Malware Detection",
+            "Reference link": "https://doi.org/10.1016/j.cose.2020.101867"
+        },
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0089",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Counterfactual Explanations for Malware Classification",
+            "Reference link": "https://doi.org/10.1145/3319535.3354234"
+        },
+        {
+            "Paper_ID": "P09",
+            "Ref_ID": "R0090",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Trustworthy AI for Automated Malware Analysis",
+            "Reference link": "https://doi.org/10.1109/SP40001.2021.00078"
+        }
+    ]
+}

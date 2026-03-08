@@ -1,0 +1,107 @@
+{
+    "paper_id": "P06",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P06",
+        "Paper Title": "Advanced AI & Big Data Techniques in E-Finance",
+        "Primary Author": "Rihab Najem",
+        "Authors Affiliations": "Shanghai Finance Univ.",
+        "Publication Year": 2025,
+        "Journal Name": "Springer OA",
+        "Identifier (DOI/ID)": "https://10.1007/s44163-025-00365-y",
+        "Keywords": "Artificial Intelligence · E-finance · Stock Market · Prediction · Forecasting · Emergent        technologies · Machine Learning",
+        "Domain": "Finance"
+    },
+    "citations": [
+        {
+            "Paper ID": "P06",
+            "Paper Title": "Advanced AI & Big Data Techniques in E-Finance",
+            "Citations Count": 88,
+            "Cross Link Paper ID": NaN
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0051",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Big Data Analytics in Financial Services: A Systematic Literature Review",
+            "Reference link": "https://doi.org/10.1016/j.jbusres.2020.08.014"
+        },
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0052",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Deep Learning for Cryptocurrency Price Prediction",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2019.2963908"
+        },
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0053",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "AI-Driven Robo-Advisors in Wealth Management",
+            "Reference link": "https://doi.org/10.1016/j.frl.2021.102025"
+        },
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0054",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Real-Time Financial Data Processing Using Stream Analytics",
+            "Reference link": "https://doi.org/10.1109/BigData.2018.8622462"
+        },
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0055",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Natural Language Processing for Sentiment Analysis in Financial Markets",
+            "Reference link": "https://doi.org/10.1016/j.eswa.2020.113750"
+        },
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0056",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Blockchain and AI Integration in Financial Technology",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2019.2953932"
+        },
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0057",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Cloud Computing for Scalable Financial Analytics",
+            "Reference link": "https://doi.org/10.1007/s10723-021-09568-3"
+        },
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0058",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Risk Management in E-Finance Using Machine Learning",
+            "Reference link": "https://doi.org/10.1016/j.irfa.2020.101542"
+        },
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0059",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Automated Trading Systems Using AI: State of the Art",
+            "Reference link": "https://doi.org/10.1109/SSCI44817.2019.9002781"
+        },
+        {
+            "Paper_ID": "P06",
+            "Ref_ID": "R0060",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Digital Payment Security Using AI and Big Data",
+            "Reference link": "https://doi.org/10.1016/j.cose.2021.102234"
+        }
+    ]
+}

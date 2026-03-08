@@ -1,0 +1,107 @@
+{
+    "paper_id": "P02",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P02",
+        "Paper Title": "Social engineering in cybersecurity: a domain ontology and knowledge graph application examples",
+        "Primary Author": "Zuoguang Wang",
+        "Authors Affiliations": "School of Cyber Security, University of Chinese Academy of Sciences, Beijing, China",
+        "Publication Year": 2021,
+        "Journal Name": "Cybersecurity (SpringerOpen)",
+        "Identifier (DOI/ID)": "https://doi.org/10.1186/s42400-021-00094-6",
+        "Keywords": "Social engineering attack, Cyber security, Ontology, Knowledge graph, Attack scenarios, Threat analysis",
+        "Domain": "Cybersecurity - social engineering"
+    },
+    "citations": [
+        {
+            "Paper ID": "P02",
+            "Paper Title": "Social engineering in cybersecurity: a domain ontology and knowledge graph application examples",
+            "Citations Count": 51,
+            "Cross Link Paper ID": "P09"
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0011",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Social Engineering Attacks: A Survey of Detection and Prevention Methods",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2020.3028301"
+        },
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0012",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Ontology-Based Approaches for Cybersecurity Knowledge Representation",
+            "Reference link": "https://doi.org/10.1016/j.cose.2019.101698"
+        },
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0013",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Knowledge Graphs for Cyber Threat Intelligence: A Systematic Review",
+            "Reference link": "https://doi.org/10.1145/3465481.3465756"
+        },
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0014",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Human Factors in Cybersecurity: Social Engineering and User Behavior",
+            "Reference link": "https://doi.org/10.1109/SECPRI.2018.00013"
+        },
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0015",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Phishing Detection Using Machine Learning: A Comprehensive Survey",
+            "Reference link": "https://doi.org/10.1016/j.comnet.2020.107654"
+        },
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0016",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Semantic Web Technologies for Cybersecurity Applications",
+            "Reference link": "https://doi.org/10.1007/s10207-019-00458-9"
+        },
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0017",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Social Engineering Defense Mechanisms: A Taxonomy and Survey",
+            "Reference link": "https://doi.org/10.1016/j.cose.2021.102445"
+        },
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0018",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Graph-Based Approaches for Modeling Social Engineering Attacks",
+            "Reference link": "https://doi.org/10.1109/TrustCom50675.2020.00156"
+        },
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0019",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Cyber Threat Intelligence Sharing Using Ontologies",
+            "Reference link": "https://doi.org/10.1145/3230833.3230869"
+        },
+        {
+            "Paper_ID": "P02",
+            "Ref_ID": "R0020",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "AI-Powered Social Engineering Attack Detection and Prevention",
+            "Reference link": "https://doi.org/10.1109/SP40001.2021.00056"
+        }
+    ]
+}

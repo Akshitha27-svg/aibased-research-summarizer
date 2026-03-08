@@ -1,0 +1,107 @@
+{
+    "paper_id": "P05",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P05",
+        "Paper Title": "XAI for Cybersecurity: State of the Art",
+        "Primary Author": "Gautam Srivastava",
+        "Authors Affiliations": "Department of Mathematics and Computer Science, Brandon University, Canada",
+        "Publication Year": 2022,
+        "Journal Name": "arXiv",
+        "Identifier (DOI/ID)": "https://arXiv:2206.03585",
+        "Keywords": "XAI, Security,Cyber security",
+        "Domain": "Cybersecurity"
+    },
+    "citations": [
+        {
+            "Paper ID": "P05",
+            "Paper Title": "XAI for Cybersecurity: State of the Art",
+            "Citations Count": 95,
+            "Cross Link Paper ID": "P09"
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0041",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Explainable AI for Intrusion Detection: A Survey",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2020.3034162"
+        },
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0042",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Interpretable Machine Learning for Malware Classification",
+            "Reference link": "https://doi.org/10.1145/3359789.3359835"
+        },
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0043",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "LIME and SHAP for Cybersecurity: Applications and Challenges",
+            "Reference link": "https://doi.org/10.1016/j.cose.2021.102389"
+        },
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0044",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Transparent Deep Learning Models for Network Security",
+            "Reference link": "https://doi.org/10.1109/TIFS.2018.2876089"
+        },
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0045",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Explainable Anomaly Detection in Cybersecurity Systems",
+            "Reference link": "https://doi.org/10.1007/s10207-020-00516-w"
+        },
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0046",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Interpretability in AI-Based Threat Intelligence",
+            "Reference link": "https://doi.org/10.1145/3319535.3354222"
+        },
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0047",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "XAI Techniques for Security Analytics: A Comprehensive Review",
+            "Reference link": "https://doi.org/10.1109/COMST.2021.3089308"
+        },
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0048",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Trust and Transparency in AI-Powered Cybersecurity",
+            "Reference link": "https://doi.org/10.1016/j.cose.2020.101923"
+        },
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0049",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Visualizing Neural Network Decisions in Malware Detection",
+            "Reference link": "https://doi.org/10.1109/VizSec.2019.8882605"
+        },
+        {
+            "Paper_ID": "P05",
+            "Ref_ID": "R0050",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Human-in-the-Loop XAI for Cyber Defense Systems",
+            "Reference link": "https://doi.org/10.1145/3449639.3459353"
+        }
+    ]
+}

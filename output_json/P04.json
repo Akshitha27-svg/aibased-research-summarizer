@@ -1,0 +1,107 @@
+{
+    "paper_id": "P04",
+    "title": "",
+    "abstract": "",
+    "full_text": "",
+    "metadata": {
+        "Paper ID": "P04",
+        "Paper Title": "SoK: Security and Privacy Risks of Medical AI",
+        "Primary Author": "A. Rahman et al.",
+        "Authors Affiliations": "University of Maryland",
+        "Publication Year": 2024,
+        "Journal Name": "arXiv",
+        "Identifier (DOI/ID)": "https://arXiv:2409.07415",
+        "Keywords": "Medical AI, Security",
+        "Domain": "Artificial Intelligence in Medicine"
+    },
+    "citations": [
+        {
+            "Paper ID": "P04",
+            "Paper Title": "SoK: Security and Privacy Risks of Medical AI",
+            "Citations Count": 120,
+            "Cross Link Paper ID": "P07"
+        }
+    ],
+    "references": [
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0031",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Privacy-Preserving Machine Learning in Healthcare: Methods and Challenges",
+            "Reference link": "https://doi.org/10.1145/3394486.3403176"
+        },
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0032",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Adversarial Attacks on Medical Deep Learning Systems",
+            "Reference link": "https://doi.org/10.1038/s41591-019-0548-6"
+        },
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0033",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Federated Learning for Healthcare: A Survey of Applications and Challenges",
+            "Reference link": "https://doi.org/10.1109/JBHI.2021.3103671"
+        },
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0034",
+            "Citation Count": 0,
+            "Cited Year": 2018,
+            "Reference_Title": "Security Threats in AI-Based Healthcare Systems",
+            "Reference link": "https://doi.org/10.1109/ICCCNT.2018.8493956"
+        },
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0035",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Differential Privacy in Medical Data Analysis",
+            "Reference link": "https://doi.org/10.1093/jamia/ocaa135"
+        },
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0036",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "Model Inversion Attacks on Medical AI Systems",
+            "Reference link": "https://doi.org/10.1145/3319535.3363192"
+        },
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0037",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Secure Multi-Party Computation for Healthcare Data Analytics",
+            "Reference link": "https://doi.org/10.1016/j.jbi.2021.103812"
+        },
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0038",
+            "Citation Count": 0,
+            "Cited Year": 2020,
+            "Reference_Title": "Data Poisoning Attacks in Medical Machine Learning",
+            "Reference link": "https://doi.org/10.1109/SP40000.2020.00087"
+        },
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0039",
+            "Citation Count": 0,
+            "Cited Year": 2019,
+            "Reference_Title": "HIPAA Compliance in AI-Driven Healthcare Applications",
+            "Reference link": "https://doi.org/10.1093/jamia/ocz084"
+        },
+        {
+            "Paper_ID": "P04",
+            "Ref_ID": "R0040",
+            "Citation Count": 0,
+            "Cited Year": 2021,
+            "Reference_Title": "Blockchain-Based Security for Medical AI Systems",
+            "Reference link": "https://doi.org/10.1109/ACCESS.2021.3089654"
+        }
+    ]
+}

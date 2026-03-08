@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hybrid RAG Research Assistant</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Hybrid RAG Research Assistant</h1>
+<p>Summarize and discuss research papers with AI</p>
+</header>
+
+<div class="top-bar">
+
+<label>Select Paper:</label>
+
+<select id="paperSelect"></select>
+
+<input type="file" id="pdfUpload">
+
+<button onclick="uploadPDF()">Upload PDF</button>
+
+</div>
+
+<div class="main-container">
+
+<!-- LEFT PANEL -->
+<div class="summarizer">
+
+<h2>Paper Summarizer</h2>
+
+<textarea id="questionBox" placeholder="Ask a question about the selected research paper..."></textarea>
+
+<button onclick="askQuestion()">Generate Summary</button>
+
+<div class="result-box">
+
+<h3>Summary</h3>
+
+<div id="summaryResult"></div>
+
+</div>
+
+<div class="confidence-box">
+
+<h3>Confidence Score</h3>
+
+<div id="confidenceScore"></div>
+
+</div>
+
+</div>
+
+
+<!-- RIGHT PANEL -->
+<div class="chat">
+
+<h2>Discussion Chat</h2>
+
+<div id="chatHistory"></div>
+
+<div class="chat-input">
+
+<input id="chatInput" placeholder="Discuss the paper...">
+
+<button onclick="sendChat()">Send</button>
+
+</div>
+
+</div>
+
+</div>
+
+<footer>
+
+<p>Hybrid RAG Research Assistant</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

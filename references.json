@@ -1,0 +1,1052 @@
+[
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0001",
+        "Cited Year": 2019,
+        "Reference_Title": "Deep Learning in Medical Image Analysis",
+        "Reference link": "https://doi.org/10.1146/annurev-bioeng-071516-044442"
+    },
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0002",
+        "Cited Year": 2020,
+        "Reference_Title": "Artificial Intelligence in Healthcare: Past Present and Future",
+        "Reference link": "https://doi.org/10.1016/j.jbi.2020.103488"
+    },
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0003",
+        "Cited Year": 2018,
+        "Reference_Title": "Machine Learning for Healthcare Applications",
+        "Reference link": "https://doi.org/10.1145/3168776"
+    },
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0004",
+        "Cited Year": 2021,
+        "Reference_Title": "Clinical Decision Support Systems Using AI: A Systematic Review",
+        "Reference link": "https://doi.org/10.1016/j.jbi.2021.103912"
+    },
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0005",
+        "Cited Year": 2019,
+        "Reference_Title": "Explainable AI for Medical Diagnosis: A Survey",
+        "Reference link": "https://doi.org/10.1109/TNNLS.2019.2908765"
+    },
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0006",
+        "Cited Year": 2020,
+        "Reference_Title": "Deep Learning Applications in Medical Imaging: Current Status and Future Directions",
+        "Reference link": "https://doi.org/10.1148/radiol.2020192134"
+    },
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0007",
+        "Cited Year": 2018,
+        "Reference_Title": "Opportunities and Challenges of AI in Healthcare",
+        "Reference link": "https://doi.org/10.1038/s41591-018-0300-7"
+    },
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0008",
+        "Cited Year": 2021,
+        "Reference_Title": "Ethical Considerations in AI-driven Medical Decision Making",
+        "Reference link": "https://doi.org/10.1016/j.artmed.2021.102108"
+    },
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0009",
+        "Cited Year": 2019,
+        "Reference_Title": "Validation of Machine Learning Models in Clinical Practice",
+        "Reference link": "https://doi.org/10.1001/jama.2019.18591"
+    },
+    {
+        "Paper_ID": "P01",
+        "Ref_ID": "R0010",
+        "Cited Year": 2020,
+        "Reference_Title": "Regulatory Frameworks for AI in Medicine",
+        "Reference link": "https://doi.org/10.1038/s41746-020-0262-2"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0011",
+        "Cited Year": 2020,
+        "Reference_Title": "Social Engineering Attacks: A Survey of Detection and Prevention Methods",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2020.3028301"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0012",
+        "Cited Year": 2019,
+        "Reference_Title": "Ontology-Based Approaches for Cybersecurity Knowledge Representation",
+        "Reference link": "https://doi.org/10.1016/j.cose.2019.101698"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0013",
+        "Cited Year": 2021,
+        "Reference_Title": "Knowledge Graphs for Cyber Threat Intelligence: A Systematic Review",
+        "Reference link": "https://doi.org/10.1145/3465481.3465756"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0014",
+        "Cited Year": 2018,
+        "Reference_Title": "Human Factors in Cybersecurity: Social Engineering and User Behavior",
+        "Reference link": "https://doi.org/10.1109/SECPRI.2018.00013"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0015",
+        "Cited Year": 2020,
+        "Reference_Title": "Phishing Detection Using Machine Learning: A Comprehensive Survey",
+        "Reference link": "https://doi.org/10.1016/j.comnet.2020.107654"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0016",
+        "Cited Year": 2019,
+        "Reference_Title": "Semantic Web Technologies for Cybersecurity Applications",
+        "Reference link": "https://doi.org/10.1007/s10207-019-00458-9"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0017",
+        "Cited Year": 2021,
+        "Reference_Title": "Social Engineering Defense Mechanisms: A Taxonomy and Survey",
+        "Reference link": "https://doi.org/10.1016/j.cose.2021.102445"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0018",
+        "Cited Year": 2020,
+        "Reference_Title": "Graph-Based Approaches for Modeling Social Engineering Attacks",
+        "Reference link": "https://doi.org/10.1109/TrustCom50675.2020.00156"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0019",
+        "Cited Year": 2018,
+        "Reference_Title": "Cyber Threat Intelligence Sharing Using Ontologies",
+        "Reference link": "https://doi.org/10.1145/3230833.3230869"
+    },
+    {
+        "Paper_ID": "P02",
+        "Ref_ID": "R0020",
+        "Cited Year": 2021,
+        "Reference_Title": "AI-Powered Social Engineering Attack Detection and Prevention",
+        "Reference link": "https://doi.org/10.1109/SP40001.2021.00056"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0021",
+        "Cited Year": 2020,
+        "Reference_Title": "Machine Learning in Finance: A Survey of Applications and Techniques",
+        "Reference link": "https://doi.org/10.1016/j.eswa.2020.113958"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0022",
+        "Cited Year": 2019,
+        "Reference_Title": "Deep Learning for Financial Time Series Forecasting",
+        "Reference link": "https://doi.org/10.1109/TNNLS.2019.2929634"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0023",
+        "Cited Year": 2021,
+        "Reference_Title": "AI-Driven Business Analytics: Current State and Future Directions",
+        "Reference link": "https://doi.org/10.1016/j.dss.2021.113621"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0024",
+        "Cited Year": 2018,
+        "Reference_Title": "Credit Risk Assessment Using Machine Learning: A Comprehensive Review",
+        "Reference link": "https://doi.org/10.1016/j.eswa.2018.08.030"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0025",
+        "Cited Year": 2020,
+        "Reference_Title": "Natural Language Processing for Financial Text Analysis",
+        "Reference link": "https://doi.org/10.1145/3383455.3422558"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0026",
+        "Cited Year": 2019,
+        "Reference_Title": "Algorithmic Trading Using Deep Reinforcement Learning",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2019.2947966"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0027",
+        "Cited Year": 2021,
+        "Reference_Title": "Machine Learning Applications in Banking and Financial Services",
+        "Reference link": "https://doi.org/10.1007/s10614-021-10142-8"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0028",
+        "Cited Year": 2018,
+        "Reference_Title": "Fraud Detection in Financial Transactions Using AI Techniques",
+        "Reference link": "https://doi.org/10.1109/TETC.2018.2873384"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0029",
+        "Cited Year": 2020,
+        "Reference_Title": "Predictive Analytics in Business Intelligence: A Machine Learning Approach",
+        "Reference link": "https://doi.org/10.1016/j.ijinfomgt.2020.102234"
+    },
+    {
+        "Paper_ID": "P03",
+        "Ref_ID": "R0030",
+        "Cited Year": 2019,
+        "Reference_Title": "Portfolio Optimization Using Machine Learning Algorithms",
+        "Reference link": "https://doi.org/10.1016/j.eswa.2019.112943"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0031",
+        "Cited Year": 2020,
+        "Reference_Title": "Privacy-Preserving Machine Learning in Healthcare: Methods and Challenges",
+        "Reference link": "https://doi.org/10.1145/3394486.3403176"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0032",
+        "Cited Year": 2019,
+        "Reference_Title": "Adversarial Attacks on Medical Deep Learning Systems",
+        "Reference link": "https://doi.org/10.1038/s41591-019-0548-6"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0033",
+        "Cited Year": 2021,
+        "Reference_Title": "Federated Learning for Healthcare: A Survey of Applications and Challenges",
+        "Reference link": "https://doi.org/10.1109/JBHI.2021.3103671"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0034",
+        "Cited Year": 2018,
+        "Reference_Title": "Security Threats in AI-Based Healthcare Systems",
+        "Reference link": "https://doi.org/10.1109/ICCCNT.2018.8493956"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0035",
+        "Cited Year": 2020,
+        "Reference_Title": "Differential Privacy in Medical Data Analysis",
+        "Reference link": "https://doi.org/10.1093/jamia/ocaa135"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0036",
+        "Cited Year": 2019,
+        "Reference_Title": "Model Inversion Attacks on Medical AI Systems",
+        "Reference link": "https://doi.org/10.1145/3319535.3363192"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0037",
+        "Cited Year": 2021,
+        "Reference_Title": "Secure Multi-Party Computation for Healthcare Data Analytics",
+        "Reference link": "https://doi.org/10.1016/j.jbi.2021.103812"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0038",
+        "Cited Year": 2020,
+        "Reference_Title": "Data Poisoning Attacks in Medical Machine Learning",
+        "Reference link": "https://doi.org/10.1109/SP40000.2020.00087"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0039",
+        "Cited Year": 2019,
+        "Reference_Title": "HIPAA Compliance in AI-Driven Healthcare Applications",
+        "Reference link": "https://doi.org/10.1093/jamia/ocz084"
+    },
+    {
+        "Paper_ID": "P04",
+        "Ref_ID": "R0040",
+        "Cited Year": 2021,
+        "Reference_Title": "Blockchain-Based Security for Medical AI Systems",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2021.3089654"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0041",
+        "Cited Year": 2020,
+        "Reference_Title": "Explainable AI for Intrusion Detection: A Survey",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2020.3034162"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0042",
+        "Cited Year": 2019,
+        "Reference_Title": "Interpretable Machine Learning for Malware Classification",
+        "Reference link": "https://doi.org/10.1145/3359789.3359835"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0043",
+        "Cited Year": 2021,
+        "Reference_Title": "LIME and SHAP for Cybersecurity: Applications and Challenges",
+        "Reference link": "https://doi.org/10.1016/j.cose.2021.102389"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0044",
+        "Cited Year": 2018,
+        "Reference_Title": "Transparent Deep Learning Models for Network Security",
+        "Reference link": "https://doi.org/10.1109/TIFS.2018.2876089"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0045",
+        "Cited Year": 2020,
+        "Reference_Title": "Explainable Anomaly Detection in Cybersecurity Systems",
+        "Reference link": "https://doi.org/10.1007/s10207-020-00516-w"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0046",
+        "Cited Year": 2019,
+        "Reference_Title": "Interpretability in AI-Based Threat Intelligence",
+        "Reference link": "https://doi.org/10.1145/3319535.3354222"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0047",
+        "Cited Year": 2021,
+        "Reference_Title": "XAI Techniques for Security Analytics: A Comprehensive Review",
+        "Reference link": "https://doi.org/10.1109/COMST.2021.3089308"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0048",
+        "Cited Year": 2020,
+        "Reference_Title": "Trust and Transparency in AI-Powered Cybersecurity",
+        "Reference link": "https://doi.org/10.1016/j.cose.2020.101923"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0049",
+        "Cited Year": 2019,
+        "Reference_Title": "Visualizing Neural Network Decisions in Malware Detection",
+        "Reference link": "https://doi.org/10.1109/VizSec.2019.8882605"
+    },
+    {
+        "Paper_ID": "P05",
+        "Ref_ID": "R0050",
+        "Cited Year": 2021,
+        "Reference_Title": "Human-in-the-Loop XAI for Cyber Defense Systems",
+        "Reference link": "https://doi.org/10.1145/3449639.3459353"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0051",
+        "Cited Year": 2020,
+        "Reference_Title": "Big Data Analytics in Financial Services: A Systematic Literature Review",
+        "Reference link": "https://doi.org/10.1016/j.jbusres.2020.08.014"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0052",
+        "Cited Year": 2019,
+        "Reference_Title": "Deep Learning for Cryptocurrency Price Prediction",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2019.2963908"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0053",
+        "Cited Year": 2021,
+        "Reference_Title": "AI-Driven Robo-Advisors in Wealth Management",
+        "Reference link": "https://doi.org/10.1016/j.frl.2021.102025"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0054",
+        "Cited Year": 2018,
+        "Reference_Title": "Real-Time Financial Data Processing Using Stream Analytics",
+        "Reference link": "https://doi.org/10.1109/BigData.2018.8622462"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0055",
+        "Cited Year": 2020,
+        "Reference_Title": "Natural Language Processing for Sentiment Analysis in Financial Markets",
+        "Reference link": "https://doi.org/10.1016/j.eswa.2020.113750"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0056",
+        "Cited Year": 2019,
+        "Reference_Title": "Blockchain and AI Integration in Financial Technology",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2019.2953932"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0057",
+        "Cited Year": 2021,
+        "Reference_Title": "Cloud Computing for Scalable Financial Analytics",
+        "Reference link": "https://doi.org/10.1007/s10723-021-09568-3"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0058",
+        "Cited Year": 2020,
+        "Reference_Title": "Risk Management in E-Finance Using Machine Learning",
+        "Reference link": "https://doi.org/10.1016/j.irfa.2020.101542"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0059",
+        "Cited Year": 2019,
+        "Reference_Title": "Automated Trading Systems Using AI: State of the Art",
+        "Reference link": "https://doi.org/10.1109/SSCI44817.2019.9002781"
+    },
+    {
+        "Paper_ID": "P06",
+        "Ref_ID": "R0060",
+        "Cited Year": 2021,
+        "Reference_Title": "Digital Payment Security Using AI and Big Data",
+        "Reference link": "https://doi.org/10.1016/j.cose.2021.102234"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0061",
+        "Cited Year": 2020,
+        "Reference_Title": "Deep Learning for COVID-19 Diagnosis Using Chest X-Ray Images",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2020.3010287"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0062",
+        "Cited Year": 2020,
+        "Reference_Title": "AI-Powered Drug Discovery for COVID-19 Treatment",
+        "Reference link": "https://doi.org/10.1038/s41587-020-0699-3"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0063",
+        "Cited Year": 2021,
+        "Reference_Title": "Machine Learning for COVID-19 Outbreak Prediction and Management",
+        "Reference link": "https://doi.org/10.1109/JBHI.2021.3056505"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0064",
+        "Cited Year": 2020,
+        "Reference_Title": "Natural Language Processing for COVID-19 Literature Analysis",
+        "Reference link": "https://doi.org/10.1093/jamia/ocaa093"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0065",
+        "Cited Year": 2020,
+        "Reference_Title": "Contact Tracing Applications Using AI During Pandemic",
+        "Reference link": "https://doi.org/10.1038/s41591-020-0931-3"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0066",
+        "Cited Year": 2021,
+        "Reference_Title": "Federated Learning for Privacy-Preserving COVID-19 Research",
+        "Reference link": "https://doi.org/10.1109/JBHI.2021.3074653"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0067",
+        "Cited Year": 2020,
+        "Reference_Title": "AI-Assisted Telemedicine for COVID-19 Patient Management",
+        "Reference link": "https://doi.org/10.2196/19201"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0068",
+        "Cited Year": 2020,
+        "Reference_Title": "CT Scan Analysis for COVID-19 Using Deep Learning",
+        "Reference link": "https://doi.org/10.1148/radiol.2020200905"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0069",
+        "Cited Year": 2021,
+        "Reference_Title": "Social Distancing Monitoring Using Computer Vision",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2021.3058432"
+    },
+    {
+        "Paper_ID": "P07",
+        "Ref_ID": "R0070",
+        "Cited Year": 2020,
+        "Reference_Title": "Vaccine Development Acceleration Using AI Technologies",
+        "Reference link": "https://doi.org/10.1038/s41577-020-00479-7"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0071",
+        "Cited Year": 2020,
+        "Reference_Title": "AI-Powered Financial Fraud Detection: A Comprehensive Survey",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2020.3045654"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0072",
+        "Cited Year": 2019,
+        "Reference_Title": "Cybersecurity Threat Intelligence for Financial Institutions",
+        "Reference link": "https://doi.org/10.1016/j.cose.2019.101623"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0073",
+        "Cited Year": 2021,
+        "Reference_Title": "Deep Learning for Anti-Money Laundering in Banking",
+        "Reference link": "https://doi.org/10.1007/s10614-021-10178-w"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0074",
+        "Cited Year": 2018,
+        "Reference_Title": "Network Security in Financial Systems Using Machine Learning",
+        "Reference link": "https://doi.org/10.1109/TrustCom.2018.00093"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0075",
+        "Cited Year": 2020,
+        "Reference_Title": "Anomaly Detection in Financial Transactions Using AI",
+        "Reference link": "https://doi.org/10.1016/j.eswa.2020.113598"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0076",
+        "Cited Year": 2019,
+        "Reference_Title": "Cyber Risk Management in Fintech: An AI Approach",
+        "Reference link": "https://doi.org/10.1016/j.jfs.2019.100691"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0077",
+        "Cited Year": 2021,
+        "Reference_Title": "Behavioral Biometrics for Online Banking Security",
+        "Reference link": "https://doi.org/10.1109/TIFS.2021.3068428"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0078",
+        "Cited Year": 2020,
+        "Reference_Title": "Insider Threat Detection in Financial Organizations",
+        "Reference link": "https://doi.org/10.1016/j.cose.2020.102089"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0079",
+        "Cited Year": 2019,
+        "Reference_Title": "Zero-Day Attack Detection in Financial Networks",
+        "Reference link": "https://doi.org/10.1109/TDSC.2019.2935443"
+    },
+    {
+        "Paper_ID": "P08",
+        "Ref_ID": "R0080",
+        "Cited Year": 2021,
+        "Reference_Title": "AI-Enhanced Security Operations Centers for Banks",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2021.3067234"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0081",
+        "Cited Year": 2020,
+        "Reference_Title": "Explainable Deep Learning for Malware Classification",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2020.3022532"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0082",
+        "Cited Year": 2019,
+        "Reference_Title": "Interpretable Machine Learning in Malware Detection",
+        "Reference link": "https://doi.org/10.1145/3319535.3339814"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0083",
+        "Cited Year": 2021,
+        "Reference_Title": "SHAP Values for Android Malware Analysis",
+        "Reference link": "https://doi.org/10.1016/j.cose.2021.102467"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0084",
+        "Cited Year": 2018,
+        "Reference_Title": "Transparent Neural Networks for Malware Family Classification",
+        "Reference link": "https://doi.org/10.1109/TDSC.2018.2878717"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0085",
+        "Cited Year": 2020,
+        "Reference_Title": "Attention Mechanisms for Explainable Malware Detection",
+        "Reference link": "https://doi.org/10.1145/3372297.3417862"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0086",
+        "Cited Year": 2019,
+        "Reference_Title": "Feature Importance Analysis in Malware Detection Systems",
+        "Reference link": "https://doi.org/10.1007/s11416-019-00346-9"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0087",
+        "Cited Year": 2021,
+        "Reference_Title": "Visual Explanations for Deep Learning-Based Malware Analysis",
+        "Reference link": "https://doi.org/10.1109/TIFS.2021.3098971"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0088",
+        "Cited Year": 2020,
+        "Reference_Title": "Rule Extraction from Neural Networks for Malware Detection",
+        "Reference link": "https://doi.org/10.1016/j.cose.2020.101867"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0089",
+        "Cited Year": 2019,
+        "Reference_Title": "Counterfactual Explanations for Malware Classification",
+        "Reference link": "https://doi.org/10.1145/3319535.3354234"
+    },
+    {
+        "Paper_ID": "P09",
+        "Ref_ID": "R0090",
+        "Cited Year": 2021,
+        "Reference_Title": "Trustworthy AI for Automated Malware Analysis",
+        "Reference link": "https://doi.org/10.1109/SP40001.2021.00078"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0091",
+        "Cited Year": 2020,
+        "Reference_Title": "Regulatory Frameworks for AI in Digital Health",
+        "Reference link": "https://doi.org/10.1038/s41746-020-0262-2"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0092",
+        "Cited Year": 2019,
+        "Reference_Title": "GDPR Compliance in Healthcare AI Systems",
+        "Reference link": "https://doi.org/10.1093/jamia/ocz084"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0093",
+        "Cited Year": 2021,
+        "Reference_Title": "Cybersecurity Standards for Medical IoT Devices",
+        "Reference link": "https://doi.org/10.1109/JBHI.2021.3089745"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0094",
+        "Cited Year": 2018,
+        "Reference_Title": "Policy Considerations for AI-Driven Healthcare",
+        "Reference link": "https://doi.org/10.1377/hlthaff.2018.05147"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0095",
+        "Cited Year": 2020,
+        "Reference_Title": "FDA Regulation of AI/ML-Based Medical Devices",
+        "Reference link": "https://doi.org/10.1038/s41551-020-0538-y"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0096",
+        "Cited Year": 2019,
+        "Reference_Title": "Data Protection in Digital Health Ecosystems",
+        "Reference link": "https://doi.org/10.1016/j.ijmedinf.2019.104041"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0097",
+        "Cited Year": 2021,
+        "Reference_Title": "Ethical Guidelines for AI in Public Health",
+        "Reference link": "https://doi.org/10.1016/j.artmed.2021.102135"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0098",
+        "Cited Year": 2020,
+        "Reference_Title": "Interoperability Standards for Healthcare AI",
+        "Reference link": "https://doi.org/10.1093/jamia/ocaa068"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0099",
+        "Cited Year": 2019,
+        "Reference_Title": "Risk Assessment Framework for Medical AI Applications",
+        "Reference link": "https://doi.org/10.1109/JBHI.2019.2943362"
+    },
+    {
+        "Paper_ID": "P10",
+        "Ref_ID": "R0100",
+        "Cited Year": 2021,
+        "Reference_Title": "Cross-Border Data Sharing Regulations in Digital Health",
+        "Reference link": "https://doi.org/10.1016/j.ijmedinf.2021.104523"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0101",
+        "Cited Year": 2020,
+        "Reference_Title": "Knowledge Graph Construction for Cyber Threat Intelligence",
+        "Reference link": "https://doi.org/10.1145/3387902.3392591"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0102",
+        "Cited Year": 2019,
+        "Reference_Title": "Semantic Web Technologies for Cybersecurity",
+        "Reference link": "https://doi.org/10.1007/s10207-019-00458-9"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0103",
+        "Cited Year": 2021,
+        "Reference_Title": "Automated Threat Intelligence Using Knowledge Graphs",
+        "Reference link": "https://doi.org/10.1016/j.cose.2021.102398"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0104",
+        "Cited Year": 2018,
+        "Reference_Title": "Ontology-Based CTI Sharing and Integration",
+        "Reference link": "https://doi.org/10.1109/TrustCom.2018.00124"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0105",
+        "Cited Year": 2020,
+        "Reference_Title": "Graph Neural Networks for Cyber Attack Detection",
+        "Reference link": "https://doi.org/10.1109/TIFS.2020.3021899"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0106",
+        "Cited Year": 2019,
+        "Reference_Title": "STIX and TAXII for Threat Intelligence Exchange",
+        "Reference link": "https://doi.org/10.1145/3339252.3341480"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0107",
+        "Cited Year": 2021,
+        "Reference_Title": "Reasoning and Inference in Cybersecurity Knowledge Graphs",
+        "Reference link": "https://doi.org/10.1016/j.eswa.2021.115612"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0108",
+        "Cited Year": 2020,
+        "Reference_Title": "Entity Extraction from Threat Reports Using NLP",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2020.3012567"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0109",
+        "Cited Year": 2019,
+        "Reference_Title": "Temporal Knowledge Graphs for Attack Pattern Analysis",
+        "Reference link": "https://doi.org/10.1145/3319535.3354245"
+    },
+    {
+        "Paper_ID": "P11",
+        "Ref_ID": "R0110",
+        "Cited Year": 2021,
+        "Reference_Title": "Heterogeneous Graph Learning for Threat Hunting",
+        "Reference link": "https://doi.org/10.1109/TDSC.2021.3098765"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0111",
+        "Cited Year": 2020,
+        "Reference_Title": "Internet of Medical Things: Architectures Applications and Challenges",
+        "Reference link": "https://doi.org/10.1109/JIOT.2020.2984973"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0112",
+        "Cited Year": 2019,
+        "Reference_Title": "Deep Learning for Electronic Health Records Analysis",
+        "Reference link": "https://doi.org/10.1038/s41598-019-47765-9"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0113",
+        "Cited Year": 2021,
+        "Reference_Title": "Wearable Sensors and AI for Remote Patient Monitoring",
+        "Reference link": "https://doi.org/10.1109/JBHI.2021.3078454"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0114",
+        "Cited Year": 2018,
+        "Reference_Title": "Predictive Analytics in Healthcare: A Systematic Review",
+        "Reference link": "https://doi.org/10.1016/j.ijmedinf.2018.10.004"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0115",
+        "Cited Year": 2020,
+        "Reference_Title": "Personalized Medicine Using AI and Genomic Data",
+        "Reference link": "https://doi.org/10.1038/s41591-020-0931-3"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0116",
+        "Cited Year": 2019,
+        "Reference_Title": "AI-Powered Clinical Decision Support Systems",
+        "Reference link": "https://doi.org/10.1093/jamia/ocz052"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0117",
+        "Cited Year": 2021,
+        "Reference_Title": "Smart Hospital Infrastructure and AI Integration",
+        "Reference link": "https://doi.org/10.1109/ACCESS.2021.3089234"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0118",
+        "Cited Year": 2020,
+        "Reference_Title": "Natural Language Processing for Medical Documentation",
+        "Reference link": "https://doi.org/10.1093/jamia/ocaa173"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0119",
+        "Cited Year": 2019,
+        "Reference_Title": "Edge Computing for Real-Time Healthcare Analytics",
+        "Reference link": "https://doi.org/10.1109/JIOT.2019.2946440"
+    },
+    {
+        "Paper_ID": "P12",
+        "Ref_ID": "R0120",
+        "Cited Year": 2021,
+        "Reference_Title": "Multimodal AI for Comprehensive Patient Assessment",
+        "Reference link": "https://doi.org/10.1038/s41746-021-00469-8"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0121",
+        "Cited Year": 2020,
+        "Reference_Title": "Digital Transformation Strategies in Financial Services",
+        "Reference link": "https://doi.org/10.1016/j.jbusres.2020.01.010"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0122",
+        "Cited Year": 2019,
+        "Reference_Title": "FinTech Innovation and Traditional Banking Disruption",
+        "Reference link": "https://doi.org/10.1016/j.jfs.2019.100759"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0123",
+        "Cited Year": 2021,
+        "Reference_Title": "Blockchain Technology in Corporate Finance: A Systematic Review",
+        "Reference link": "https://doi.org/10.1007/s10479-021-04176-6"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0124",
+        "Cited Year": 2018,
+        "Reference_Title": "Cloud-Based Financial Management Systems",
+        "Reference link": "https://doi.org/10.1016/j.jclepro.2018.09.224"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0125",
+        "Cited Year": 2020,
+        "Reference_Title": "AI and Automation in Financial Reporting and Auditing",
+        "Reference link": "https://doi.org/10.1111/ijau.12210"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0126",
+        "Cited Year": 2019,
+        "Reference_Title": "Digital Banking Transformation: Customer Experience and Innovation",
+        "Reference link": "https://doi.org/10.1016/j.jretconser.2019.101894"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0127",
+        "Cited Year": 2021,
+        "Reference_Title": "Smart Contracts for Financial Operations Management",
+        "Reference link": "https://doi.org/10.1016/j.techfore.2021.120810"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0128",
+        "Cited Year": 2020,
+        "Reference_Title": "Data Analytics for Strategic Financial Decision Making",
+        "Reference link": "https://doi.org/10.1016/j.ijinfomgt.2020.102234"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0129",
+        "Cited Year": 2019,
+        "Reference_Title": "Mobile Financial Services and Digital Inclusion",
+        "Reference link": "https://doi.org/10.1016/j.telpol.2019.101812"
+    },
+    {
+        "Paper_ID": "P13",
+        "Ref_ID": "R0130",
+        "Cited Year": 2021,
+        "Reference_Title": "Cybersecurity Challenges in Digital Financial Ecosystems",
+        "Reference link": "https://doi.org/10.1016/j.cose.2021.102345"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0131",
+        "Cited Year": 2020,
+        "Reference_Title": "Knowledge Graph Quality Assessment: A Survey",
+        "Reference link": "https://doi.org/10.1145/3418226"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0132",
+        "Cited Year": 2019,
+        "Reference_Title": "Building Domain-Specific Knowledge Graphs for Cybersecurity",
+        "Reference link": "https://doi.org/10.1109/BigData.2019.8978934"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0133",
+        "Cited Year": 2021,
+        "Reference_Title": "Graph Embedding Techniques for Cybersecurity Applications",
+        "Reference link": "https://doi.org/10.1109/TIFS.2021.3067895"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0134",
+        "Cited Year": 2018,
+        "Reference_Title": "RDF and OWL for Cybersecurity Knowledge Representation",
+        "Reference link": "https://doi.org/10.1007/s10207-018-0409-x"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0135",
+        "Cited Year": 2020,
+        "Reference_Title": "Link Prediction in Cybersecurity Knowledge Graphs",
+        "Reference link": "https://doi.org/10.1016/j.cose.2020.101967"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0136",
+        "Cited Year": 2019,
+        "Reference_Title": "Knowledge Graph Completion for Threat Intelligence",
+        "Reference link": "https://doi.org/10.1145/3319535.3354256"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0137",
+        "Cited Year": 2021,
+        "Reference_Title": "Quality Metrics for Cybersecurity Ontologies",
+        "Reference link": "https://doi.org/10.1016/j.eswa.2021.115789"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0138",
+        "Cited Year": 2020,
+        "Reference_Title": "Temporal Dynamics in Cybersecurity Knowledge Graphs",
+        "Reference link": "https://doi.org/10.1109/TKDE.2020.3012789"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0139",
+        "Cited Year": 2019,
+        "Reference_Title": "Automated Knowledge Graph Construction from Security Reports",
+        "Reference link": "https://doi.org/10.1145/3357384.3358063"
+    },
+    {
+        "Paper_ID": "P14",
+        "Ref_ID": "R0140",
+        "Cited Year": 2021,
+        "Reference_Title": "Federated Knowledge Graphs for Collaborative Threat Intelligence",
+        "Reference link": "https://doi.org/10.1109/TDSC.2021.3089432"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0141",
+        "Cited Year": 2024,
+        "Reference_Title": "Large Language Models in Clinical Medicine: Opportunities and Risks",
+        "Reference link": "https://doi.org/10.1056/NEJMra2308598"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0142",
+        "Cited Year": 2023,
+        "Reference_Title": "Foundation Models for Medical Imaging: A Survey",
+        "Reference link": "https://doi.org/10.1148/radiol.230753"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0143",
+        "Cited Year": 2024,
+        "Reference_Title": "Multimodal AI for Clinical Decision Support Systems",
+        "Reference link": "https://doi.org/10.1038/s41591-024-02856-5"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0144",
+        "Cited Year": 2023,
+        "Reference_Title": "Ethical AI Frameworks for Future Medical Applications",
+        "Reference link": "https://doi.org/10.1016/j.artmed.2023.102623"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0145",
+        "Cited Year": 2024,
+        "Reference_Title": "Real-World Evidence Generation Using AI in Healthcare",
+        "Reference link": "https://doi.org/10.1093/jamia/ocad234"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0146",
+        "Cited Year": 2023,
+        "Reference_Title": "AI-Assisted Surgery: Current State and Future Prospects",
+        "Reference link": "https://doi.org/10.1097/SLA.0000000000005892"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0147",
+        "Cited Year": 2024,
+        "Reference_Title": "Digital Therapeutics and AI-Powered Interventions",
+        "Reference link": "https://doi.org/10.2196/45678"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0148",
+        "Cited Year": 2023,
+        "Reference_Title": "Federated Learning for Multi-Institutional Medical Research",
+        "Reference link": "https://doi.org/10.1109/JBHI.2023.3287654"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0149",
+        "Cited Year": 2024,
+        "Reference_Title": "Continuous Learning Systems for Evolving Medical Knowledge",
+        "Reference link": "https://doi.org/10.1038/s41746-024-01012-3"
+    },
+    {
+        "Paper_ID": "P15",
+        "Ref_ID": "R0150",
+        "Cited Year": 2023,
+        "Reference_Title": "Regulatory Pathways for Next-Generation Medical AI",
+        "Reference link": "https://doi.org/10.1038/s41551-023-01123-9"
+    }
+]

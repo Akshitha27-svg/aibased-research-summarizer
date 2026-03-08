@@ -1,0 +1,562 @@
+[
+    {
+        "subject": "P01",
+        "predicate": "WRITTEN_BY",
+        "object": "Robert Sparrow"
+    },
+    {
+        "subject": "P01",
+        "predicate": "WRITTEN_BY",
+        "object": "Joshua Hatherley"
+    },
+    {
+        "subject": "P01",
+        "predicate": "PUBLISHED_IN",
+        "object": "arXiv"
+    },
+    {
+        "subject": "P01",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "P01",
+        "predicate": "HAS_KEYWORD",
+        "object": "AI ethics"
+    },
+    {
+        "subject": "P01",
+        "predicate": "HAS_KEYWORD",
+        "object": "bias"
+    },
+    {
+        "subject": "P01",
+        "predicate": "HAS_KEYWORD",
+        "object": "clinical decision support"
+    },
+    {
+        "subject": "P01",
+        "predicate": "HAS_KEYWORD",
+        "object": "transparency"
+    },
+    {
+        "subject": "P02",
+        "predicate": "WRITTEN_BY",
+        "object": "Zuoguang Wang"
+    },
+    {
+        "subject": "P02",
+        "predicate": "PUBLISHED_IN",
+        "object": "Cybersecurity (SpringerOpen)"
+    },
+    {
+        "subject": "P02",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "P02",
+        "predicate": "HAS_KEYWORD",
+        "object": "Social engineering attack"
+    },
+    {
+        "subject": "P02",
+        "predicate": "HAS_KEYWORD",
+        "object": "Cyber security"
+    },
+    {
+        "subject": "P02",
+        "predicate": "HAS_KEYWORD",
+        "object": "Ontology"
+    },
+    {
+        "subject": "P02",
+        "predicate": "HAS_KEYWORD",
+        "object": "Knowledge graph"
+    },
+    {
+        "subject": "P02",
+        "predicate": "HAS_KEYWORD",
+        "object": "Attack scenarios"
+    },
+    {
+        "subject": "P02",
+        "predicate": "HAS_KEYWORD",
+        "object": "Threat analysis"
+    },
+    {
+        "subject": "P03",
+        "predicate": "WRITTEN_BY",
+        "object": "Hanyao Gao"
+    },
+    {
+        "subject": "P03",
+        "predicate": "PUBLISHED_IN",
+        "object": "Financial Innovation — Volume 10, Article 86"
+    },
+    {
+        "subject": "P03",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024"
+    },
+    {
+        "subject": "P03",
+        "predicate": "HAS_KEYWORD",
+        "object": "Machine learning"
+    },
+    {
+        "subject": "P03",
+        "predicate": "HAS_KEYWORD",
+        "object": "Business"
+    },
+    {
+        "subject": "P03",
+        "predicate": "HAS_KEYWORD",
+        "object": "Finance"
+    },
+    {
+        "subject": "P03",
+        "predicate": "HAS_KEYWORD",
+        "object": "Marketing"
+    },
+    {
+        "subject": "P03",
+        "predicate": "HAS_KEYWORD",
+        "object": "Deep learning"
+    },
+    {
+        "subject": "P03",
+        "predicate": "HAS_KEYWORD",
+        "object": "Financial forecasting"
+    },
+    {
+        "subject": "P03",
+        "predicate": "HAS_KEYWORD",
+        "object": "Application review"
+    },
+    {
+        "subject": "P04",
+        "predicate": "WRITTEN_BY",
+        "object": "A. Rahman et al."
+    },
+    {
+        "subject": "P04",
+        "predicate": "PUBLISHED_IN",
+        "object": "arXiv"
+    },
+    {
+        "subject": "P04",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024"
+    },
+    {
+        "subject": "P04",
+        "predicate": "HAS_KEYWORD",
+        "object": "Medical AI"
+    },
+    {
+        "subject": "P04",
+        "predicate": "HAS_KEYWORD",
+        "object": "Security"
+    },
+    {
+        "subject": "P05",
+        "predicate": "WRITTEN_BY",
+        "object": "Gautam Srivastava"
+    },
+    {
+        "subject": "P05",
+        "predicate": "PUBLISHED_IN",
+        "object": "arXiv"
+    },
+    {
+        "subject": "P05",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2022"
+    },
+    {
+        "subject": "P05",
+        "predicate": "HAS_KEYWORD",
+        "object": "XAI"
+    },
+    {
+        "subject": "P05",
+        "predicate": "HAS_KEYWORD",
+        "object": "Security"
+    },
+    {
+        "subject": "P05",
+        "predicate": "HAS_KEYWORD",
+        "object": "Cyber security"
+    },
+    {
+        "subject": "P06",
+        "predicate": "WRITTEN_BY",
+        "object": "Rihab Najem"
+    },
+    {
+        "subject": "P06",
+        "predicate": "PUBLISHED_IN",
+        "object": "Springer OA"
+    },
+    {
+        "subject": "P06",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "P06",
+        "predicate": "HAS_KEYWORD",
+        "object": "Artificial Intelligence · E-finance · Stock Market · Prediction · Forecasting · Emergent        technologies · Machine Learning"
+    },
+    {
+        "subject": "P07",
+        "predicate": "WRITTEN_BY",
+        "object": "Thanh Thi Nguyen"
+    },
+    {
+        "subject": "P07",
+        "predicate": "PUBLISHED_IN",
+        "object": "arXiv"
+    },
+    {
+        "subject": "P07",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2020"
+    },
+    {
+        "subject": "P07",
+        "predicate": "HAS_KEYWORD",
+        "object": "AI"
+    },
+    {
+        "subject": "P07",
+        "predicate": "HAS_KEYWORD",
+        "object": "Healthcare"
+    },
+    {
+        "subject": "P07",
+        "predicate": "HAS_KEYWORD",
+        "object": "covid-19"
+    },
+    {
+        "subject": "P07",
+        "predicate": "HAS_KEYWORD",
+        "object": "pandemic"
+    },
+    {
+        "subject": "P08",
+        "predicate": "WRITTEN_BY",
+        "object": "Shailendra Mishra"
+    },
+    {
+        "subject": "P08",
+        "predicate": "PUBLISHED_IN",
+        "object": "Applied Sciences"
+    },
+    {
+        "subject": "P08",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2023"
+    },
+    {
+        "subject": "P08",
+        "predicate": "HAS_KEYWORD",
+        "object": "artificial intelligence"
+    },
+    {
+        "subject": "P08",
+        "predicate": "HAS_KEYWORD",
+        "object": "enhanced encryption"
+    },
+    {
+        "subject": "P08",
+        "predicate": "HAS_KEYWORD",
+        "object": "financial sector"
+    },
+    {
+        "subject": "P08",
+        "predicate": "HAS_KEYWORD",
+        "object": "cyber security"
+    },
+    {
+        "subject": "P09",
+        "predicate": "WRITTEN_BY",
+        "object": "HARIKHA MANTHENA"
+    },
+    {
+        "subject": "P09",
+        "predicate": "WRITTEN_BY",
+        "object": "SHAGHAYEGH SHAJARIAN1"
+    },
+    {
+        "subject": "P09",
+        "predicate": "PUBLISHED_IN",
+        "object": "arXiv"
+    },
+    {
+        "subject": "P09",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024"
+    },
+    {
+        "subject": "P09",
+        "predicate": "HAS_KEYWORD",
+        "object": "Explainable Malware Analysis"
+    },
+    {
+        "subject": "P09",
+        "predicate": "HAS_KEYWORD",
+        "object": "Interpretable Malware Analysis"
+    },
+    {
+        "subject": "P09",
+        "predicate": "HAS_KEYWORD",
+        "object": "Explainable AI"
+    },
+    {
+        "subject": "P09",
+        "predicate": "HAS_KEYWORD",
+        "object": "AI for Security"
+    },
+    {
+        "subject": "P09",
+        "predicate": "HAS_KEYWORD",
+        "object": "Malware Detection"
+    },
+    {
+        "subject": "P09",
+        "predicate": "HAS_KEYWORD",
+        "object": "and Malware Classification"
+    },
+    {
+        "subject": "P10",
+        "predicate": "WRITTEN_BY",
+        "object": "Abdullah Virk"
+    },
+    {
+        "subject": "P10",
+        "predicate": "WRITTEN_BY",
+        "object": "Safanah Alasmari"
+    },
+    {
+        "subject": "P10",
+        "predicate": "PUBLISHED_IN",
+        "object": "Cureas"
+    },
+    {
+        "subject": "P10",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "P10",
+        "predicate": "HAS_KEYWORD",
+        "object": "ai and digital systems"
+    },
+    {
+        "subject": "P10",
+        "predicate": "HAS_KEYWORD",
+        "object": "ai governance"
+    },
+    {
+        "subject": "P10",
+        "predicate": "HAS_KEYWORD",
+        "object": "cybersecurity and healthcare"
+    },
+    {
+        "subject": "P10",
+        "predicate": "HAS_KEYWORD",
+        "object": "digital healthcare systems"
+    },
+    {
+        "subject": "P10",
+        "predicate": "HAS_KEYWORD",
+        "object": "healthcare disparities and digital health records"
+    },
+    {
+        "subject": "P10",
+        "predicate": "HAS_KEYWORD",
+        "object": "patient data security"
+    },
+    {
+        "subject": "P10",
+        "predicate": "HAS_KEYWORD",
+        "object": "racial and ethnicity bias. discrimination"
+    },
+    {
+        "subject": "P11",
+        "predicate": "WRITTEN_BY",
+        "object": "Charalampos Bratsas"
+    },
+    {
+        "subject": "P11",
+        "predicate": "WRITTEN_BY",
+        "object": "Efstathios K. Anastasiadi"
+    },
+    {
+        "subject": "P11",
+        "predicate": "PUBLISHED_IN",
+        "object": "Journal of Cybersecurity and Privacy (MDPI)"
+    },
+    {
+        "subject": "P11",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024"
+    },
+    {
+        "subject": "P11",
+        "predicate": "HAS_KEYWORD",
+        "object": "semantic"
+    },
+    {
+        "subject": "P11",
+        "predicate": "HAS_KEYWORD",
+        "object": "ontologies"
+    },
+    {
+        "subject": "P11",
+        "predicate": "HAS_KEYWORD",
+        "object": "knowledge graph"
+    },
+    {
+        "subject": "P11",
+        "predicate": "HAS_KEYWORD",
+        "object": "cybersecurity"
+    },
+    {
+        "subject": "P11",
+        "predicate": "HAS_KEYWORD",
+        "object": "cyber threat intelligence"
+    },
+    {
+        "subject": "P12",
+        "predicate": "WRITTEN_BY",
+        "object": "Syed Raza Abbas"
+    },
+    {
+        "subject": "P12",
+        "predicate": "PUBLISHED_IN",
+        "object": "Journal of Healthcare Engineering (PMC)"
+    },
+    {
+        "subject": "P12",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "P12",
+        "predicate": "HAS_KEYWORD",
+        "object": "AI integration into smart healthcare systems"
+    },
+    {
+        "subject": "P12",
+        "predicate": "HAS_KEYWORD",
+        "object": "focusing on deployment and interpretability."
+    },
+    {
+        "subject": "P13",
+        "predicate": "WRITTEN_BY",
+        "object": "Ping Zhang"
+    },
+    {
+        "subject": "P13",
+        "predicate": "PUBLISHED_IN",
+        "object": "SSRN Electronic Journal (Preprint)"
+    },
+    {
+        "subject": "P13",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024"
+    },
+    {
+        "subject": "P13",
+        "predicate": "HAS_KEYWORD",
+        "object": "Digital transformation"
+    },
+    {
+        "subject": "P13",
+        "predicate": "HAS_KEYWORD",
+        "object": "Corporate finance"
+    },
+    {
+        "subject": "P13",
+        "predicate": "HAS_KEYWORD",
+        "object": "Bibliometric analysis"
+    },
+    {
+        "subject": "P13",
+        "predicate": "HAS_KEYWORD",
+        "object": "Firm investment"
+    },
+    {
+        "subject": "P13",
+        "predicate": "HAS_KEYWORD",
+        "object": "Financing"
+    },
+    {
+        "subject": "P13",
+        "predicate": "HAS_KEYWORD",
+        "object": "Firm value"
+    },
+    {
+        "subject": "P14",
+        "predicate": "WRITTEN_BY",
+        "object": "Hongyi Li"
+    },
+    {
+        "subject": "P14",
+        "predicate": "PUBLISHED_IN",
+        "object": "Complex & Intelligent Systems (Springer)"
+    },
+    {
+        "subject": "P14",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2023"
+    },
+    {
+        "subject": "P14",
+        "predicate": "HAS_KEYWORD",
+        "object": "Cybersecurity knowledge graphs"
+    },
+    {
+        "subject": "P14",
+        "predicate": "HAS_KEYWORD",
+        "object": "ontology"
+    },
+    {
+        "subject": "P14",
+        "predicate": "HAS_KEYWORD",
+        "object": "quality assessment"
+    },
+    {
+        "subject": "P14",
+        "predicate": "HAS_KEYWORD",
+        "object": "graph construction"
+    },
+    {
+        "subject": "P15",
+        "predicate": "WRITTEN_BY",
+        "object": "Ji Dai"
+    },
+    {
+        "subject": "P15",
+        "predicate": "PUBLISHED_IN",
+        "object": "Innovation Medicine"
+    },
+    {
+        "subject": "P15",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "P15",
+        "predicate": "HAS_KEYWORD",
+        "object": "AI integration into smart healthcare systems"
+    },
+    {
+        "subject": "P15",
+        "predicate": "HAS_KEYWORD",
+        "object": "ai in health"
+    }
+]

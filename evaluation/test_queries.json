@@ -1,0 +1,10 @@
+[
+  {
+    "query": "AI in healthcare",
+    "relevant_papers": ["P1"]
+  },
+  {
+    "query": "Knowledge graph for cybersecurity",
+    "relevant_papers": ["P2"]
+  }
+]

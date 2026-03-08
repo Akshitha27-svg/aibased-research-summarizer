@@ -1,0 +1,8 @@
+gradio
+faiss-cpu
+numpy
+pandas
+torch
+sentence-transformers
+transformers
+pymupdf
